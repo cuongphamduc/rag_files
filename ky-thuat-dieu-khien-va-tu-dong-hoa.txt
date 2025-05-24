@@ -1,0 +1,1324 @@
+https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/
+
+- [Cổng thông tin điện tử Học viện Công nghệ Bưu chính Viễn thông](https://ptit.edu.vn/ "Cổng thông tin điện tử Học viện Công nghệ Bưu chính Viễn thông")
+
+Youtube
+
+[![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/cong-thong-tin-dao-tao.png)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/cong-thong-tin-dao-tao.png)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/cong-thong-tin-dao-tao.png)](https://daotao.ptit.edu.vn/)
+
+# Ngành Công nghệ thông tin Hệ CLC
+
+- Mã ngành
+
+
+
+**7480201(CLC)**
+
+- Thời gian
+
+
+
+**4,5 năm**
+
+- Kỳ nhập học
+
+
+
+**Mùa thu**
+
+- Cơ sở
+
+
+
+**Hà Nội và Tp Hồ Chí Minh**
+
+
+- [Tổng quan](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#tong_quan)
+- [Chuẩn đầu ra](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#chuan_dau_ra)
+- [Cấu trúc chương trình](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#cau_truc_chuong_trinh)
+- [Nghề nghiệp](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#nghe_nghiep)
+- [Học phí](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#hoc_phi)
+- [Điều kiện tuyển sinh](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#dieu_kien_tuyen_sinh)
+- [Quy trình nhập học](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#quy_trinh_nhap_hoc)
+- [Tài liệu đào tạo](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#tai_lieu_dao_tao)
+
+### Tổng quan
+
+**Chương trình Công nghệ thông tin chất lượng cao (gồm có 3 chuyên ngành Công nghệ phần mềm, Trí tuệ nhân tạo, Hệ thống thông tin, không xét tuyển theo chuyên ngành, khi vào học sinh viên tự chọn chuyên ngành)**
+
+**1\. Mã ngành:** 7480201\_CLC
+
+**2\. Khối lượng chương trình:** 154 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục quốc phòng và Kỹ năng mềm)
+
+Chương trình đào tạo ngành Công nghệ thông tin hệ chất lượng cao tại Học viện Công nghệ Bưu chính Viễn thông có mục tiêu trang bị cho sinh viên các kỹ năng nghề nghiệp trong tương lai về công nghệ thông tin bao gồm cả chuyên môn, đạo đức nghề nghiệp, và kỹ năng mềm. Sinh viên tốt nghiệp chương trình đào tạo có thể _(The objectives of the Information Technology program at PTIT are to prepare students for future work and careers in computing with proficiency and integrity. Graduates of the program can)_:
+
+(1) Làm việc chuyên nghiệp trong ít nhất một trong các lĩnh vực sau: thiết kế phần mềm, phát triển phần mềm, kiểm thử phần mềm, khoa học dữ liệu, học máy, nghiên cứu về khoa học máy tính, an toàn thông tin _(Work professionally in one or more of the following areas: software design, developing, and testing; data science, machine learning engineering; computer science research; information security)_;
+
+(2) Làm việc hiệu quả, độc lập cũng như tập thể, trong nhiều môi trường làm việc khác nhau _(Work effectively in a variety of contexts, both as individuals and in team environments)_;
+
+(3) Có khả năng tự học suốt đời để đảm bảo làm việc chuyên nghiệp và hiệu quả trong thế giới công nghệ không ngừng thay đổi _(Engage in lifelong learning to remain effective professionals in a constantly changing world of technology)_;
+
+(4) Hiểu biết về các giá trị đạo đức nghề nghiệp, ý thức về những vấn đề đương đại, hiểu rõ vai trò của các giải pháp kỹ thuật trong bối cảnh kinh tế, môi trường, xã hội toàn cầu và trong bối cảnh riêng của đất nước _(Be aware of professional and societal responsibilities, and committed to ethical actions)_;
+
+(5) Sử dụng tiếng Anh thành thạo, làm việc hiệu quả trong môi trường quốc tế _(Use English in their work, and work effectively in an international environment)_.
+
+**3\. Chi tiêu:**
+
+\- Năm 2024: 280
+
+\- Năm 2023: 100
+
+**4\. Điểm trúng tuyển:**
+
+\- Năm 2024: 25,43
+
+\- Năm 2023: 25,38
+
+**5\. Tổ hợp xét tuyển:** Toán – Lý – Hóa (A00) hoặc Toán – Lý – Anh (A01)
+
+### Chuẩn đầu ra
+
+**3.1. Chuẩn về kiến thức (Knowledge)**
+
+LO1: Vận dụng được các kiến thức về Lý luận của Chủ nghĩa Mác Lênin và Tư tưởng Hồ Chí Minh, về Khoa học tự nhiên và xã hội, đặt biệt là Toán học trong học tập, nghiên cứu và làm việc.
+
+(Apply the knowledge of The Theory of Marxism Leninism and Ho Chi Minh Thought, Natural and Social Science focusing on Mathematics in studying and working).
+
+LO2: Vận dụng được các kiến thức cơ sở ngành Công nghệ thông tin, bao gồm Hệ thống máy tính, Lập trình máy tính, Mạng máy tính và an toàn thông tin, Lưu trữ và truy vấn dữ liệu, Phát triển phần mềm, Trí tuệ nhân tạo và Các ứng dụng quan trọng của Công nghệ thông tin trong học tập và làm việc.
+
+(Apply the base-building knowledge of information technology, including computer systems, computer programming, computer network and security, databases, software development, artificial intelligence, important applications of information technology in studying and working).
+
+LO3: Vận dụng được các kiến thức chuyên sâu về thiết kế, phát triển, cài đặt, vận hành và bảo trì phần mềm (với chuyên ngành Công nghệ phần mềm); thu thập, xử lý, phân tích dữ liệu và xây dựng các hệ thống thông minh (với chuyên ngành Trí tuệ nhân tạo); và xây dựng, phát triển và vận hành các hệ thống thông tin (với chuyên ngành Hệ thống thông tin).
+
+(Apply the in-depth knowledge of software design, development, installation, operation and maintenance (with a major in Software Engineering); collecting, processing, analyzing data and building intelligent systems (with a major in Artificial Intelligence); and building, developing and deploying information systems (with a major in Information Systems) in studying and working).
+
+**3.2. Chuẩn về kỹ năng (Skills)**
+
+_**3.2.1 Kỹ năng nghề nghiệp chung (General Career Skills)**_
+
+LO4: Áp dụng tri thức toán học, khoa học, và công nghệ để xác định, mô hình và giải quyết các vấn đề công nghệ.
+
+(Apply the knowledge of mathematics, science, and engineering to identify, formulate, and solve engineering problems).
+
+LO5: Thiết kế và thực hiện các thực nghiệm, cũng như phân tích, đánh giá, và diễn giải các kết quả thực nghiệm.
+
+(Design and conduct experiments, as well to analyze and interpret data).
+
+LO6: Thiết kế hệ thống, các thành phần, các tiến trình phù hợp với những ràng buộc thực tế trên nhiều khía cạnh như kinh tế, môi trường, xã hội, chính trị, văn hóa, an toàn sức khỏe, công nghiệp và bền vững.
+
+(Design a system, component, or process to meet desired needs within realistic constraints such as economic, environmental, social, political, ethical, health and safety, manufacturability, and sustainability).
+
+LO7: Nhận biết, mô hình, và giải quyết các vấn đề công nghệ.
+
+(Identify, formulate, and solve engineering problems).
+
+LO8: Thể hiện được tri thức và năng lực làm việc với các vấn đề đương đại (Demonstrate a working knowledge of contemporary issues).
+
+LO9: Áp dụng các kỹ thuật, kỹ năng và công cụ công nghệ hiện đại vào thực hành (Apply the techniques, skills, and modern engineering tools necessary for engineering practice).
+
+LO10: Chuyển đổi các lý thuyết và khái niệm kỹ thuật vào các ứng dụng thực tế (Transition from engineering concepts and theory to real engineering applications).
+
+### Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
+
+- Chuyên ngành: Trí tuệ nhân tạo – ARTIFICIAL INTELLIGENCE
+- Chuyên ngành: Công nghệ phần mềm – SOFTWARE ENGINEERING
+- Chuyên ngành: Hệ thống thông tin – INFORMATION TECHNOLOGY
+
+Học kỳ 1
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 1\_CLC)
+
+3 tín chỉ
+
+
+Calculus 1 (Giải tích 1)
+
+3 tín chỉ
+
+
+Algebra (Đại số)
+
+3 tín chỉ
+
+
+Introduction to Computing and Programming
+
+Học kỳ 2
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 2\_CLC)
+
+4 tín chỉ
+
+
+Physics 1
+
+3 tín chỉ
+
+
+Calculus 2
+
+3 tín chỉ
+
+
+Programming with C++
+
+Học kỳ 3
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 3\_CLC)
+
+3 tín chỉ
+
+
+Probability and Statistics
+
+0 tín chỉ
+
+
+Soft Skill 1
+
+3 tín chỉ
+
+
+Discrete Mathematics 1
+
+3 tín chỉ
+
+
+Data Structutes and Algorithms
+
+Học kỳ 4
+
+3 tín chỉ
+
+
+Triết học Mác-Lênin
+
+2 tín chỉ
+
+
+General Law
+
+0 tín chỉ
+
+
+Soft Skill 2
+
+2 tín chỉ
+
+
+Scientific Research Methodology
+
+3 tín chỉ
+
+
+Discrete Mathematics 2
+
+3 tín chỉ
+
+
+Digital Electronics
+
+3 tín chỉ
+
+
+Computer Architecture
+
+3 tín chỉ
+
+
+Python Programming
+
+Học kỳ 5
+
+2 tín chỉ
+
+
+Kinh tế chính trị Mác Lênin
+
+3 tín chỉ
+
+
+Object - Oriented Programming
+
+3 tín chỉ
+
+
+Databases
+
+3 tín chỉ
+
+
+Computer Networks
+
+3 tín chỉ
+
+
+Operating Systems
+
+3 tín chỉ
+
+
+Fundamentals of Information Security
+
+Học kỳ 6
+
+2 tín chỉ
+
+
+Chủ nghĩa xã hội khoa học
+
+0 tín chỉ
+
+
+Soft Skill 3
+
+3 tín chỉ
+
+
+Introduction to Software Engineering
+
+3 tín chỉ
+
+
+Introduction to Artificial Intelligence
+
+3 tín chỉ
+
+
+Database Management Systems
+
+3 tín chỉ
+
+
+Web Programming
+
+4 tín chỉ
+
+
+Internship
+
+Học kỳ 7
+
+2 tín chỉ
+
+
+Tư tưởng Hồ Chí Minh
+
+3 tín chỉ
+
+
+Analysis and Design of Information Systems
+
+3 tín chỉ
+
+
+Mobile Application Development
+
+3 tín chỉ
+
+
+Image Processing
+
+3 tín chỉ
+
+
+Machine Learning
+
+4 tín chỉ
+
+
+Introduction to Data Science
+
+Học kỳ 8
+
+2 tín chỉ
+
+
+Lịch sử Đảng cộng sản Việt Nam
+
+1 tín chỉ
+
+
+Advanced Topics in Artificial Intelligence
+
+3 tín chỉ
+
+
+Introduction to Deep Learning
+
+3 tín chỉ
+
+
+Tự chọn 1 (Elective 1)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Service - Oriented Software Development (Phát triển phần mềm hướng dịch vụ)
+
+3 tín chỉ
+
+
+Distributed Systems (Các hệ thống phân tán)
+
+3 tín chỉ
+
+
+Human - Computer Interaction (Tương tác người máy)
+
+3 tín chỉ
+
+
+Embedded Systems Development (Xây dựng các hệ thống nhúng)
+
+3 tín chỉ
+
+
+Secure Software Development (Phát triển phần mềm an toàn)
+
+3 tín chỉ
+
+
+Network Programming (Lập trình mạng)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+3 tín chỉ
+
+
+Tự chọn 2 (Elective 2)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Service - Oriented Software Development (Phát triển phần mềm hướng dịch vụ)
+
+3 tín chỉ
+
+
+Distributed Systems (Các hệ thống phân tán)
+
+3 tín chỉ
+
+
+Human - Computer Interaction (Tương tác người máy)
+
+3 tín chỉ
+
+
+Embedded Systems Development (Xây dựng các hệ thống nhúng)
+
+3 tín chỉ
+
+
+Secure Software Development (Phát triển phần mềm an toàn)
+
+3 tín chỉ
+
+
+Network Programming (Lập trình mạng)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+3 tín chỉ
+
+
+Tự chọn 3 (Elective 3)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Service - Oriented Software Development (Phát triển phần mềm hướng dịch vụ)
+
+3 tín chỉ
+
+
+Distributed Systems (Các hệ thống phân tán)
+
+3 tín chỉ
+
+
+Human - Computer Interaction (Tương tác người máy)
+
+3 tín chỉ
+
+
+Embedded Systems Development (Xây dựng các hệ thống nhúng)
+
+3 tín chỉ
+
+
+Secure Software Development (Phát triển phần mềm an toàn)
+
+3 tín chỉ
+
+
+Network Programming (Lập trình mạng)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+Học kỳ 9
+
+16 tín chỉ
+
+
+Internship and Graduation
+
+Học kỳ 1
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 1\_CLC)
+
+3 tín chỉ
+
+
+Calculus 1 (Giải tích 1)
+
+3 tín chỉ
+
+
+Algebra (Đại số)
+
+3 tín chỉ
+
+
+Introduction to Computing and Programming
+
+Học kỳ 2
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 2\_CLC)
+
+4 tín chỉ
+
+
+Physics 1
+
+3 tín chỉ
+
+
+Calculus 2
+
+3 tín chỉ
+
+
+Programming with C++
+
+Học kỳ 3
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 3\_CLC)
+
+3 tín chỉ
+
+
+Probability and Statistics
+
+0 tín chỉ
+
+
+Soft Skill 1
+
+3 tín chỉ
+
+
+Discrete Mathematics 1
+
+3 tín chỉ
+
+
+Data Structutes and Algorithms
+
+Học kỳ 4
+
+3 tín chỉ
+
+
+Triết học Mác-Lênin
+
+2 tín chỉ
+
+
+General Law
+
+0 tín chỉ
+
+
+Soft Skill 2
+
+2 tín chỉ
+
+
+Scientific Research Methodology
+
+3 tín chỉ
+
+
+Discrete Mathematics 2
+
+3 tín chỉ
+
+
+Digital Electronics
+
+3 tín chỉ
+
+
+Computer Architecture
+
+3 tín chỉ
+
+
+Python Programming
+
+Học kỳ 5
+
+2 tín chỉ
+
+
+Kinh tế chính trị Mác Lênin
+
+3 tín chỉ
+
+
+Object - Oriented Programming
+
+3 tín chỉ
+
+
+Databases
+
+3 tín chỉ
+
+
+Computer Networks
+
+3 tín chỉ
+
+
+Operating Systems
+
+3 tín chỉ
+
+
+Fundamentals of Information Security
+
+Học kỳ 6
+
+2 tín chỉ
+
+
+Chủ nghĩa xã hội khoa học
+
+0 tín chỉ
+
+
+Soft Skill 3
+
+3 tín chỉ
+
+
+Introduction to Software Engineering
+
+3 tín chỉ
+
+
+Introduction to Artificial Intelligence
+
+3 tín chỉ
+
+
+Database Management Systems
+
+3 tín chỉ
+
+
+Web Programming
+
+4 tín chỉ
+
+
+Internship
+
+Học kỳ 7
+
+2 tín chỉ
+
+
+Tư tưởng Hồ Chí Minh
+
+3 tín chỉ
+
+
+Analysis and Design of Information Systems
+
+3 tín chỉ
+
+
+Mobile Application Development
+
+3 tín chỉ
+
+
+Software Project Management
+
+3 tín chỉ
+
+
+Tự chọn 1 (Elective 1)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Service - Oriented Software Development (Phát triển phần mềm hướng dịch vụ)
+
+3 tín chỉ
+
+
+Distributed Systems (Các hệ thống phân tán)
+
+3 tín chỉ
+
+
+Human - Computer Interaction (Tương tác người máy)
+
+3 tín chỉ
+
+
+Embedded Systems Development (Xây dựng các hệ thống nhúng)
+
+3 tín chỉ
+
+
+Secure Software Development (Phát triển phần mềm an toàn)
+
+3 tín chỉ
+
+
+Network Programming (Lập trình mạng)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+3 tín chỉ
+
+
+Tự chọn 2 (Elective 2)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Service - Oriented Software Development (Phát triển phần mềm hướng dịch vụ)
+
+3 tín chỉ
+
+
+Distributed Systems (Các hệ thống phân tán)
+
+3 tín chỉ
+
+
+Human - Computer Interaction (Tương tác người máy)
+
+3 tín chỉ
+
+
+Embedded Systems Development (Xây dựng các hệ thống nhúng)
+
+3 tín chỉ
+
+
+Secure Software Development (Phát triển phần mềm an toàn)
+
+3 tín chỉ
+
+
+Network Programming (Lập trình mạng)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+Học kỳ 8
+
+2 tín chỉ
+
+
+Lịch sử Đảng cộng sản Việt Nam
+
+3 tín chỉ
+
+
+Software Quality Assurance
+
+1 tín chỉ
+
+
+Advanced Topics in Software Engineering
+
+3 tín chỉ
+
+
+Software Requirement Analy
+
+3 tín chỉ
+
+
+Software Architecture and Design
+
+3 tín chỉ
+
+
+Tự chọn 3 (Elective 3)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Service - Oriented Software Development (Phát triển phần mềm hướng dịch vụ)
+
+3 tín chỉ
+
+
+Distributed Systems (Các hệ thống phân tán)
+
+3 tín chỉ
+
+
+Human - Computer Interaction (Tương tác người máy)
+
+3 tín chỉ
+
+
+Embedded Systems Development (Xây dựng các hệ thống nhúng)
+
+3 tín chỉ
+
+
+Secure Software Development (Phát triển phần mềm an toàn)
+
+3 tín chỉ
+
+
+Network Programming (Lập trình mạng)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+Học kỳ 9
+
+16 tín chỉ
+
+
+Internship and Graduation
+
+Học kỳ 1
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 1\_CLC)
+
+3 tín chỉ
+
+
+Calculus 1 (Giải tích 1)
+
+3 tín chỉ
+
+
+Algebra (Đại số)
+
+3 tín chỉ
+
+
+Introduction to Computing and Programming
+
+Học kỳ 2
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 2\_CLC)
+
+4 tín chỉ
+
+
+Physics 1
+
+3 tín chỉ
+
+
+Calculus 2
+
+3 tín chỉ
+
+
+Programming with C++
+
+Học kỳ 3
+
+8 tín chỉ
+
+
+Tiếng Anh (Course 3\_CLC)
+
+3 tín chỉ
+
+
+Probability and Statistics
+
+0 tín chỉ
+
+
+Soft Skill 1
+
+3 tín chỉ
+
+
+Discrete Mathematics 1
+
+3 tín chỉ
+
+
+Data Structutes and Algorithms
+
+Học kỳ 4
+
+3 tín chỉ
+
+
+Triết học Mác-Lênin
+
+2 tín chỉ
+
+
+General Law
+
+0 tín chỉ
+
+
+Soft Skill 2
+
+2 tín chỉ
+
+
+Scientific Research Methodology
+
+3 tín chỉ
+
+
+Discrete Mathematics 2
+
+3 tín chỉ
+
+
+Digital Electronics
+
+3 tín chỉ
+
+
+Computer Architecture
+
+3 tín chỉ
+
+
+Python Programming
+
+Học kỳ 5
+
+2 tín chỉ
+
+
+Kinh tế chính trị Mác Lênin
+
+3 tín chỉ
+
+
+Object - Oriented Programming
+
+3 tín chỉ
+
+
+Databases
+
+3 tín chỉ
+
+
+Computer Networks
+
+3 tín chỉ
+
+
+Operating Systems
+
+3 tín chỉ
+
+
+Fundamentals of Information Security
+
+Học kỳ 6
+
+2 tín chỉ
+
+
+Chủ nghĩa xã hội khoa học
+
+0 tín chỉ
+
+
+Soft Skill 3
+
+3 tín chỉ
+
+
+Introduction to Software Engineering
+
+3 tín chỉ
+
+
+Introduction to Artificial Intelligence
+
+3 tín chỉ
+
+
+Database Management Systems
+
+3 tín chỉ
+
+
+Web Programming
+
+4 tín chỉ
+
+
+Internship
+
+Học kỳ 7
+
+2 tín chỉ
+
+
+Tư tưởng Hồ Chí Minh
+
+3 tín chỉ
+
+
+Analysis and Design of Information Systems
+
+3 tín chỉ
+
+
+Mobile Application Development
+
+3 tín chỉ
+
+
+IoT and Applications
+
+3 tín chỉ
+
+
+Data Mining
+
+3 tín chỉ
+
+
+Distributed Systems
+
+Học kỳ 8
+
+2 tín chỉ
+
+
+Tư tưởng Hồ Chí Minh
+
+3 tín chỉ
+
+
+Embedded System Development
+
+3 tín chỉ
+
+
+Advanced Topics in Information Systems
+
+3 tín chỉ
+
+
+Tự chọn 2 (Elective 2)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Data Warehousing (Kho dữ liệu)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+3 tín chỉ
+
+
+Distributed Databases (Cơ sở dữ liệu phân tán)
+
+3 tín chỉ
+
+
+Multimedia Database Systems (Hệ cơ sở dữ liệu đa phương tiện)
+
+3 tín chỉ
+
+
+Software Project Management (Quản lý dự án phần mềm)
+
+3 tín chỉ
+
+
+Business Intelligence (Quản trị nghiệp vụ thông minh)
+
+3 tín chỉ
+
+
+Tự chọn 1 (Elective 1)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Data Warehousing (Kho dữ liệu)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+3 tín chỉ
+
+
+Distributed Databases (Cơ sở dữ liệu phân tán)
+
+3 tín chỉ
+
+
+Multimedia Database Systems (Hệ cơ sở dữ liệu đa phương tiện)
+
+3 tín chỉ
+
+
+Software Project Management (Quản lý dự án phần mềm)
+
+3 tín chỉ
+
+
+Business Intelligence (Quản trị nghiệp vụ thông minh)
+
+3 tín chỉ
+
+
+Tự chọn 3 (Elective 3)
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Data Warehousing (Kho dữ liệu)
+
+3 tín chỉ
+
+
+Intelligent System Development (Phát triển hệ thống thông minh)
+
+3 tín chỉ
+
+
+Distributed Databases (Cơ sở dữ liệu phân tán)
+
+3 tín chỉ
+
+
+Multimedia Database Systems (Hệ cơ sở dữ liệu đa phương tiện)
+
+3 tín chỉ
+
+
+Software Project Management (Quản lý dự án phần mềm)
+
+3 tín chỉ
+
+
+Business Intelligence (Quản trị nghiệp vụ thông minh)
+
+Học kỳ 9
+
+16 tín chỉ
+
+
+Internship and Graduation
+
+- Bắt buộc chung
+
+- Bổ trợ ngành
+
+- Chuyên ngành
+
+- Giáo dục chuyên nghiệp
+
+- Bắt buộc chung nhóm ngành
+
+- Cơ sở ngành
+
+- Thực tập
+
+- Luận văn tốt nghiệp
+
+
+### Nghề nghiệp
+
+Sau khi tốt nghiệp sinh viên có thể đảm nhận tốt các vị trí công việc sau:
+
+(1) Cán bộ kỹ thuật, quản lý, điều hành trong lĩnh vực công nghệ thông tin _(Technical, managerial and executive officers in information technology sector)_;
+
+(2) Lập trình viên, các nhà quản trị hệ thống, quản trị bảo mật hệ thống công nghệ thông tin trong bất kỳ doanh nghiệp nào _(Programmers, system administrators, information technology system security administrators in companies)_;
+
+(3) Làm việc trong các dự án với vai trò là người quản trị dự án về công nghệ thông tin _(Project Administrator in information technology projects)_;
+
+(4) Cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo _(Information technology researcher and lectures at research centers and training institutions)_;
+
+(5) Có thể tiếp tục học tiếp lên trình độ sau đại học ở trong nước và nước ngoài _(Continue to study to graduate level abroad)_.
+
+### Học phí
+
+1.100.000/ 1 tín
+
+### Điều kiện tuyển sinh
+
+a) Thí sinh là người Việt Nam đã trúng tuyển vào đại học hệ chính quy ở các ngành thuộc Nhóm ngành Kỹ thuật trong kỳ thi tuyển sinh đại học hệ chính quy của Học viện Công nghệ Bưu chính Viễn thông;
+
+b) Thí sinh là người nước ngoài có văn bằng tốt nghiệp tương đương văn bằng tốt nghiệp THPT của Việt Nam, có đủ năng lực tiếng Việt và tiếng Anh để học tập và nghiên cứu;
+
+c) Có trình độ tiếng Anh tối thiểu từ TOEFL iBT 31 điểm hoặc IELTS 4,0 điểm trở lên _(tương đương với trình độ Bậc 3/6 theo khung năng lực ngoại ngữ 6 bậc của Việt Nam)_ hoặc tương đương _(thí sinh chưa đạt yêu cầu trình độ tiếng Anh sẽ phải học khóa học tiếng Anh tăng cường trong học kỳ đầu tiên)_;
+
+d) Tự nguyện tham gia học và cam kết đóng học phí theo quy định của Học viện.
+
+a) Là người đã tốt nghiệp THPT hoặc tương đương, tham dự và trúng tuyển (đạt các yêu cầu đầu vào) trong kỳ tuyển sinh đại học hệ chính quy với Tổ hợp xét tuyển: Toán, Lý, Hóa (A00 – khối A); hoặc Toán, Lý, Anh văn (A01 – khối A1) hoặc các phương án xét tuyển riêng của Học viện Công nghệ Bưu chính Viễn thông.
+
+Hoặc:
+
+a) Là thí sinh đã trúng tuyển vào đại học hệ chính quy ở các ngành thuộc Nhóm ngành Kỹ thuật trong kỳ thi tuyển sinh đại học hệ chính quy của Học viện Công nghệ Bưu chính Viễn thông;
+
+b) Có trình độ tiếng Anh tối thiểu từ TOEFL iBT 31 điểm hoặc IELTS 4,0 điểm trở lên (tương đương với trình độ Bậc 3/6 theo khung năng lực ngoại ngữ 6 bậc của Việt Nam) hoặc tương đương (thí sinh chưa đạt yêu cầu trình độ tiếng Anh sẽ phải học khóa học tiếng Anh tăng cường trong học kỳ đầu tiên);
+
+### Quy trình nhập học
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/contract.png)1\. Chọn chương trình
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/accept.png)2\. Kiểm tra điều kiện
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/preparation.png)3\. Chuẩn bị hồ sơ
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/admission.png)4\. Nộp hồ sơ
+
+
+[Chi tiết tại đây](https://tuyensinh.ptit.edu.vn/)
+
+### Tài liệu đào tạo
+
+[![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/logo-footer-svg-1.svg)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/logo-footer-svg-1.svg)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/logo-footer-svg-1.svg)](https://daotao.ptit.edu.vn/)
+
+[Facebook-f](https://www.facebook.com/HocvienPTIT/?locale=vi_VN)[Youtube](https://www.youtube.com/@PChannels)
+
+Số điện thoại liên hệ
+
+- [024 3756 2186](tel:024 3756 2186 "phone")
+
+Trụ sở chính
+
+- [122 Hoàng Quốc Việt, Q. Cầu Giấy, Hà Nội](https://maps.app.goo.gl/rEUZhZKnMeKmNgeJ8 "122 Hoàng Quốc Việt, Q. Cầu Giấy, Hà Nội ")
+
+Học viện cơ sở tại TP. Hồ Chí Minh
+
+- [11 Nguyễn Đình Chiểu, P. Đa Kao, Q.1 TP Hồ Chí Minh](https://maps.app.goo.gl/jUuFNULm7CGRQJpr9 "11 Nguyễn Đình Chiểu, P. Đa Kao, Q.1 TP Hồ Chí Minh  ")
+
+Email
+
+- [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn "email")
+
+Cơ sở đào tạo tại Hà Nội
+
+- [Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội](https://maps.app.goo.gl/hCHZG71dhwLz2tvo8 "Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội")
+
+Cơ sở đào tạo tại TP Hồ Chí Minh
+
+- [Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh](https://maps.app.goo.gl/B5x8pPrMfRmCXXhL6 "Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh")
+
+## Đường dẫn liên kết
+
+- [Bộ Khoa học và Công nghệ](https://www.most.gov.vn/ "Bộ Khoa học và Công nghệ")
+
+- [Học viện Cơ sở TP. Hồ Chí Minh​](https://ptithcm.edu.vn/ "Học viện Cơ sở TP. Hồ Chí Minh​")
+
+- [Cổng thông tin Đào tạo](https://daotao.ptit.edu.vn/ "Cổng thông tin Đào tạo")
+
+- [Viện Khoa học Kỹ thuật Bưu điện](https://ript.vn/ "Viện Khoa học Kỹ thuật Bưu điện")
+
+- [Trung tâm Đào tạo Bưu chính Viễn thông](https://pttc1.edu.vn/ "Trung tâm Đào tạo Bưu chính Viễn thông")
+
+- [Cổng thông tin Khoa học Công nghệ](https://khcn.ptit.edu.vn/ "Cổng thông tin Khoa học Công nghệ")
+
+- [Viện Kinh tế Bưu điện](https://eript.ptit.edu.vn/ "Viện Kinh tế Bưu điện")
+
+- [Trung tâm Đào tạo quốc tế](https://cie.ptit.edu.vn/ "Trung tâm Đào tạo quốc tế")
+
+- [Cổng thông tin Hợp tác quốc tế](https://htqt.ptit.edu.vn/vi "Cổng thông tin Hợp tác quốc tế")
+
+- [Viện Công nghệ Thông tin và Truyền thông CDIT](https://cdit.ptit.edu.vn/ "Viện Công nghệ Thông tin và Truyền thông CDIT")
+
+© Copyright 2024 HocVienCongNgheBuuChinhVienThong, All rights reserved ® Học viện Công nghệ Bưu chính Viễn thông giữ bản quyền nội dung trên website này
+
+[Go to top](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/nganh-cong-nghe-thong-tin-he-clc/#top "Go to top")

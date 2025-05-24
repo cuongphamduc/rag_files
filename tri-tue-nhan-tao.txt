@@ -1,0 +1,665 @@
+https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/
+
+- [Cổng thông tin điện tử Học viện Công nghệ Bưu chính Viễn thông](https://ptit.edu.vn/ "Cổng thông tin điện tử Học viện Công nghệ Bưu chính Viễn thông")
+
+Youtube
+
+[![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/cong-thong-tin-dao-tao.png)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/cong-thong-tin-dao-tao.png)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/cong-thong-tin-dao-tao.png)](https://daotao.ptit.edu.vn/)
+
+# Ngành Trí tuệ nhân tạo
+
+- Mã ngành
+
+
+
+**7480107**
+
+- Thời gian
+
+
+
+**4.5 năm**
+
+- Kỳ nhập học
+
+
+
+**Mùa thu**
+
+- Cơ sở
+
+
+
+**Hà Nội**
+
+
+- [Tổng quan](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#tong_quan)
+- [Chuẩn đầu ra](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#chuan_dau_ra)
+- [Cấu trúc chương trình](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#cau_truc_chuong_trinh)
+- [Nghề nghiệp](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#nghe_nghiep)
+- [Học phí](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#hoc_phi)
+- [Điều kiện tuyển sinh](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#dieu_kien_tuyen_sinh)
+- [Quy trình nhập học](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#quy_trinh_nhap_hoc)
+- [Tài liệu đào tạo](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#tai_lieu_dao_tao)
+
+### Tổng quan
+
+Chương trình đào tạo ngành Trí tuệ nhân tạo (TTNT) của Học viện Công nghệ Bưu chính Viễn thông được thiết kế nhằm đào tạo nhân lực trình độ Đại học (Kỹ sư) ngành Trí tuệ nhân tạo trong bối cảnh hội nhập quốc tế và chuyển đổi số. Sinh viên tốt nghiệp được trang bị các kỹ năng nghề nghiệp trong tương lai về Trí tuệ nhân tạo và Khoa học máy tính bao gồm cả chuyên môn, phẩm chất chính trị, đạo đức nghề nghiệp, và kỹ năng mềm. Nội dung đào tạo kết hợp giữa lý thuyết và thực tiễn, nhằm giúp học viên ứng dụng hiệu quả các kiến thức về Trí tuệ nhân tạo vào giải quyết các bài toán thực tế. Đồng thời, chương trình đào tạo ngành Trí tuệ nhân tạo nằm trong chiến lược phát triển của Học viện với triết lý giáo dục “Tri thức – Sáng tạo – Đạo đức - Trách nhiệm” hướng tới mục tiêu đào tạo nguồn nhân lực “vừa có tài vừa có đức” để đóng góp cho sự phát triển chung của đất nước và nhân loại.
+
+### Chuẩn đầu ra
+
+**LO1: Nhận diện được vấn đề và các giải pháp có thể để giải quyết vấn đề liên quan đến trí tuệ nhân tạo.**
+
+PI 1.1: Hiểu bài toán và các yêu cầu
+
+PI 1.2: Đề xuất và phân tích giải pháp tính toán giải quyết bài toán
+
+PI 1.3: Xác định giải pháp phù hợp dựa trên các nguyên lý tính toán để giải quyết bài toán.
+
+**LO2: Giao tiếp hiệu quả trong nhiều bối cảnh chuyên nghiệp khác nhau.**
+
+PI 2.1: Xây dựng được các dạng tài liệu kỹ thuật và phi kỹ thuật khác nhau phù hợp với ngữ cảnh và qui định.
+
+PI 2.2: Chuẩn bị và trình bày các bài thuyết trình thành thạo.
+
+PI 2.3: Giao tiếp và thực hiện hiệu quả các hoạt động chuyên môn bằng ngoại ngữ.
+
+**LO3: Nhận thức được trách nhiệm nghề nghiệp và đưa ra những đánh giá sáng suốt dựa trên các nguyên tắc pháp lý và đạo đức.**
+
+PI 3.1: Thể hiện được hiểu biết các lý thuyết và các quy định thực thi đạo đức cơ bản quan trọng trong hoạt động Trí tuệ nhân tạo; Nhận thức được các kết quả về đạo đức của các quyết định và các hành động trong lĩnh vực Trí tuệ nhân tạo; Đảm bảo tuân thủ các quy định pháp lý trong thiết kế và cài đặt hệ thống.
+
+PI 3.2: Cho thấy được tính minh bạch trong các công việc liên quan đến báo cáo lỗi, các hạn chế hoặc các xung đột lợi ích trong công việc về Trí tuệ nhân tạo; Chịu trách nhiệm cho các quyệt định và các kết quả của các dự án hoặc các nhiệm vụ.
+
+**LO4: Hoạt động hiệu quả với tư cách là thành viên hoặc lãnh đạo một nhóm tham gia vào các hoạt động phù hợp với chuyên môn trí tuệ nhân tạo.**
+
+PI 4.1: Phối hợp, chia sẻ công việc trong một nhóm.
+
+PI 4.2: Hoàn thành nhiệm vụ trong các vai trò khác nhau của nhóm.
+
+**LO5: Thực hiện được một công đoạn của quy trình phát triển một dự án về Trí tuệ nhân tạo.**
+
+PI 5.1: Xác định được mong muốn và yêu cầu của người dùng trong việc phát triển mô hình Trí tuệ nhân tạo và/hoặc phần mềm ứng dụng Trí tuệ nhân tạo.
+
+PI 5.2: Có thể tham gia vào ít nhất một trong các công đoạn: phân tích yêu cầu, thiết kế, cài đặt, kiểm thử và triển khai mô hình Trí tuệ nhân tạo và/hoặc phần mềm ứng dụng Trí tuệ nhân tạo.
+
+PI 5.3: Có thể viết tài liệu dự án phát triển mô hình Trí tuệ nhân tạo và/hoặc phần mềm ứng dụng Trí tuệ nhân tạo.
+
+### Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
+
+- Trí tuệ nhân tạo
+
+Học kỳ 1
+
+3 tín chỉ
+
+
+Giái tích 1
+
+2 tín chỉ
+
+
+Pháp luật đại cương
+
+3 tín chỉ
+
+
+Đại số
+
+3 tín chỉ
+
+
+Lập trình Python cơ bản
+
+Học kỳ 2
+
+4 tín chỉ
+
+
+Tiếng Anh (Course 1)
+
+4 tín chỉ
+
+
+Vật lý ứng dụng
+
+3 tín chỉ
+
+
+Giải tích 2
+
+3 tín chỉ
+
+
+Xác suất thống kê
+
+3 tín chỉ
+
+
+Phương pháp lập trình cơ bản
+
+3 tín chỉ
+
+
+Cơ sở dữ liệu
+
+Học kỳ 3
+
+4 tín chỉ
+
+
+Tiếng Anh (Course 2)
+
+3 tín chỉ
+
+
+Toán rời rạc 1
+
+3 tín chỉ
+
+
+Khoa học dữ liệu cơ bản
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Phân tích yêu cầu phần mềm
+
+3 tín chỉ
+
+
+Kiến trúc và thiết kế phần mềm
+
+3 tín chỉ
+
+
+IoT và ứng dụng
+
+3 tín chỉ
+
+
+Phát triển phần mềm hướng dịch vụ
+
+3 tín chỉ
+
+
+Các hệ thống phân tán
+
+3 tín chỉ
+
+
+Tương tác người máy
+
+3 tín chỉ
+
+
+Xây dựng phần mềm an toàn
+
+3 tín chỉ
+
+
+Lập trình mạng
+
+3 tín chỉ
+
+
+Khai phá dữ liệu
+
+3 tín chỉ
+
+
+Tiếng Nhật chuyên ngành
+
+3 tín chỉ
+
+
+Điện tử số
+
+3 tín chỉ
+
+
+Cấu trúc dữ liệu và giải thuật
+
+3 tín chỉ
+
+
+Nền tảng phát triển trí tuệ nhân tạo
+
+Học kỳ 4
+
+3 tín chỉ
+
+
+Triết học Mác Lênin
+
+4 tín chỉ
+
+
+Tiếng Anh (Course 3)
+
+3 tín chỉ
+
+
+Kiến trúc máy tính
+
+3 tín chỉ
+
+
+Lý thuyết đồ thị
+
+3 tín chỉ
+
+
+Trí tuệ nhân tạo cơ bản
+
+3 tín chỉ
+
+
+Lập trình hướng đối tượng
+
+Học kỳ 5
+
+2 tín chỉ
+
+
+Kinh tế chính trị Mác Lênin
+
+2 tín chỉ
+
+
+Tiếng Anh (Course 3 Plus)
+
+3 tín chỉ
+
+
+Xử lý ảnh
+
+3 tín chỉ
+
+
+Lập trình web
+
+3 tín chỉ
+
+
+Mạng máy tính
+
+3 tín chỉ
+
+
+Nhập môn Học máy
+
+3 tín chỉ
+
+
+Xử lý ngôn ngữ tự nhiên
+
+Học kỳ 6
+
+2 tín chỉ
+
+
+Chủ nghĩa xã hội khoa học
+
+3 tín chỉ
+
+
+Nhập môn công nghệ phần mềm
+
+3 tín chỉ
+
+
+Đạo đức và chính sách TTNT
+
+3 tín chỉ
+
+
+Nhập môn Học sâu
+
+3 tín chỉ
+
+
+Học phần tự chọn
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Nhập môn robostics
+
+3 tín chỉ
+
+
+Lập trình song song
+
+3 tín chỉ
+
+
+Mô hình tạo sinh
+
+3 tín chỉ
+
+
+Mô hình học máy đồ thị và ứng dụng
+
+3 tín chỉ
+
+
+Hệ khuyến nghị
+
+3 tín chỉ
+
+
+Khai phá dữ liệu
+
+3 tín chỉ
+
+
+IoT và ứng dụng
+
+2 tín chỉ
+
+
+Phân tích dữ liệu chuỗi thời gian
+
+3 tín chỉ
+
+
+Trí tuệ nhân tạo cho tính toán biên
+
+3 tín chỉ
+
+
+Các hệ thống phân tán
+
+4 tín chỉ
+
+
+Thực tập cơ sở
+
+2 tín chỉ
+
+
+Pháp luật luận NCKH
+
+Học kỳ 7
+
+2 tín chỉ
+
+
+Tư tưởng Hồ Chí Minh
+
+3 tín chỉ
+
+
+Mô hình ngôn ngữ lớn
+
+3 tín chỉ
+
+
+Thị giác máy tính
+
+3 tín chỉ
+
+
+Trí tuệ nhân tạo cho an toàn bảo mật TT
+
+3 tín chỉ
+
+
+Công cụ triển khai và vận hành ứng dụng TTNT
+
+3 tín chỉ
+
+
+Học phần tự chọn
+
+### Các học phần tự chọn
+
+3 tín chỉ
+
+
+Nhập môn robostics
+
+3 tín chỉ
+
+
+Lập trình song song
+
+3 tín chỉ
+
+
+Mô hình tạo sinh
+
+3 tín chỉ
+
+
+Mô hình học máy đồ thị và ứng dụng
+
+3 tín chỉ
+
+
+Hệ khuyến nghị
+
+3 tín chỉ
+
+
+Khai phá dữ liệu
+
+3 tín chỉ
+
+
+IoT và ứng dụng
+
+3 tín chỉ
+
+
+Phân tích dữ liệu chuỗi thời gian
+
+3 tín chỉ
+
+
+Trí tuệ nhân tạo cho tính toán biên
+
+3 tín chỉ
+
+
+Các hệ thống phân tán
+
+Học kỳ 8
+
+2 tín chỉ
+
+
+Lịch sử Đảng Cộng sản VN
+
+3 tín chỉ
+
+
+Học tăng cường và ứng dụng
+
+3 tín chỉ
+
+
+Truy xuất thông tin
+
+3 tín chỉ
+
+
+Phát triển ứng dụng TTNT
+
+6 tín chỉ
+
+
+Học phần tự chọn
+
+### Các học phần tự chọn
+
+6 tín chỉ
+
+
+Nhập môn robostics
+
+6 tín chỉ
+
+
+Lập trình song song
+
+6 tín chỉ
+
+
+Mô hình tạo sinh
+
+6 tín chỉ
+
+
+Mô hình học máy đồ thị và ứng dụng
+
+6 tín chỉ
+
+
+Hệ khuyến nghị
+
+6 tín chỉ
+
+
+Khai phá dữ liệu
+
+6 tín chỉ
+
+
+IoT và ứng dụng
+
+6 tín chỉ
+
+
+Phân tích dữ liệu chuỗi thời gian
+
+6 tín chỉ
+
+
+Trí tuệ nhân tạo cho tính toán biên
+
+6 tín chỉ
+
+
+Các hệ thống phân tán
+
+Học kỳ 9
+
+12 tín chỉ
+
+
+Thực tập và tốt nghiệp
+
+- Bắt buộc chung
+
+- Bổ trợ ngành
+
+- Chuyên ngành
+
+- Giáo dục chuyên nghiệp
+
+- Bắt buộc chung nhóm ngành
+
+- Cơ sở ngành
+
+- Thực tập
+
+- Luận văn tốt nghiệp
+
+
+### Nghề nghiệp
+
+Sinh viên sau khi tốt nghiệp ngành Trí tuệ nhân tạo và nắm vững các kĩ năng từ cơ bản đến chuyên ngành thì có thể làm việc ở một trong các vị trí việc làm sau:
+
+\- Kỹ sư xử lý ngôn ngữ tự nhiên (NLP Engineer): Phát triển và triển khai các mô hình, thuật toán, kỹ thuật về NLP đặc biệt là các mô hình ngôn ngữ lớn (LLMs) và Mô hình tạo sinh (GenAI), huấn luyện và tinh chỉnh các mô hình ngôn ngữ.
+
+\- Kỹ sư Thị giác máy tính (CV Engineer): Phát triển và triển khai các mô hình học máy/học sâu để xử lý hình ảnh và video cho các bài toán thị giác máy tính. Phân tích và tiền xử lý dữ liệu hình ảnh/video, cải thiện chất lượng đầu vào cho các mô hình. Tích hợp các thuật toán thị giác máy tính vào các ứng dụng thực tế.
+
+\- Chuyên viên phân tích dữ liệu (Data Analyst): phân tích các dữ liệu lớn của văn bản hoặc hình ảnh để đưa ra các thống kê hữu ích cho doanh nghiệp, trực quan hóa dữ liệu để từ đó đưa ra các quyết định quan trọng mang tính chiến lược, xây dựng các mô hình dự đoán dựa trên nguồn dữ liệu thực tế.
+
+\- Chuyên gia nghiên cứu về Trí tuệ nhân tạo (AI Research Scientist): làm việc trong bộ phận Research and Development (R&D) của các tổ chức để nghiên cứu về các mô hình, thuật toán, công nghệ mới nhằm giải quyết bài toán thực tiễn. Đây là vị trí yêu cầu nắm vững các kiến thức nền tảng của học máy, học sâu.
+
+\- Chuyên viên phát triển phần mềm Trí tuệ nhân tạo (AI Software Developer): tích hợp các mô hình Trí tuệ nhân tạo vào các ứng dụng, nâng cao hiệu quả hoạt động của các hệ thống phần mềm và phần cứng. Đây là vị trí yêu cầu nắm vững các công đoạn xây dựng một mô hình hoàn chỉnh từ chuẩn bị dữ liệu, xây dựng mô hình, triển khai, sử dụng thành thạo các công cụ và nền tảng phát triển ứng dụng Trí tuệ nhân tạo.
+
+### Học phí
+
+### Điều kiện tuyển sinh
+
+Là người đã tốt nghiệp THPT hoặc tương đương, tham dự và trúng tuyển (đạt các yêu cầu đầu vào) trong kỳ tuyển sinh đại học hệ chính quy với Tổ hợp xét tuyển: Toán, Lý, Hóa (A00 – khối A); Toán, Lý, Anh (A01 – khối A1); Toán, Lý, Tin (X06); Toán, Lý, Anh (X26) hoặc các phương án xét tuyển riêng của Học viện Công nghệ Bưu chính Viễn thông.
+
+### Quy trình nhập học
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/contract.png)1\. Chọn chương trình
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/accept.png)2\. Kiểm tra điều kiện
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/preparation.png)3\. Chuẩn bị hồ sơ
+
+- ![](https://daotao.ptit.edu.vn/wp-content/images/admission.png)4\. Nộp hồ sơ
+
+
+[Chi tiết tại đây](https://tuyensinh.ptit.edu.vn/)
+
+### Tài liệu đào tạo
+
+[13QD\_Chuan dau ra](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/13QD_Chuan-dau-ra.pdf)
+
+[14QD\_Chuong trinh dao tao](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2025/03/14QD_Chuong-trinh-dao-tao.pdf)
+
+[![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/logo-footer-svg-1.svg)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/logo-footer-svg-1.svg)![PTIT – Đào tạo](https://daotao.ptit.edu.vn/wp-content/uploads/sites/3/2024/08/logo-footer-svg-1.svg)](https://daotao.ptit.edu.vn/)
+
+[Facebook-f](https://www.facebook.com/HocvienPTIT/?locale=vi_VN)[Youtube](https://www.youtube.com/@PChannels)
+
+Số điện thoại liên hệ
+
+- [024 3756 2186](tel:024 3756 2186 "phone")
+
+Trụ sở chính
+
+- [122 Hoàng Quốc Việt, Q. Cầu Giấy, Hà Nội](https://maps.app.goo.gl/rEUZhZKnMeKmNgeJ8 "122 Hoàng Quốc Việt, Q. Cầu Giấy, Hà Nội ")
+
+Học viện cơ sở tại TP. Hồ Chí Minh
+
+- [11 Nguyễn Đình Chiểu, P. Đa Kao, Q.1 TP Hồ Chí Minh](https://maps.app.goo.gl/jUuFNULm7CGRQJpr9 "11 Nguyễn Đình Chiểu, P. Đa Kao, Q.1 TP Hồ Chí Minh  ")
+
+Email
+
+- [ctsv@ptit.edu.vn](mailto:ctsv@ptit.edu.vn "email")
+
+Cơ sở đào tạo tại Hà Nội
+
+- [Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội](https://maps.app.goo.gl/hCHZG71dhwLz2tvo8 "Km10, Đường Nguyễn Trãi, Q. Hà Đông, Hà Nội")
+
+Cơ sở đào tạo tại TP Hồ Chí Minh
+
+- [Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh](https://maps.app.goo.gl/B5x8pPrMfRmCXXhL6 "Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh")
+
+## Đường dẫn liên kết
+
+- [Bộ Khoa học và Công nghệ](https://www.most.gov.vn/ "Bộ Khoa học và Công nghệ")
+
+- [Học viện Cơ sở TP. Hồ Chí Minh​](https://ptithcm.edu.vn/ "Học viện Cơ sở TP. Hồ Chí Minh​")
+
+- [Cổng thông tin Đào tạo](https://daotao.ptit.edu.vn/ "Cổng thông tin Đào tạo")
+
+- [Viện Khoa học Kỹ thuật Bưu điện](https://ript.vn/ "Viện Khoa học Kỹ thuật Bưu điện")
+
+- [Trung tâm Đào tạo Bưu chính Viễn thông](https://pttc1.edu.vn/ "Trung tâm Đào tạo Bưu chính Viễn thông")
+
+- [Cổng thông tin Khoa học Công nghệ](https://khcn.ptit.edu.vn/ "Cổng thông tin Khoa học Công nghệ")
+
+- [Viện Kinh tế Bưu điện](https://eript.ptit.edu.vn/ "Viện Kinh tế Bưu điện")
+
+- [Trung tâm Đào tạo quốc tế](https://cie.ptit.edu.vn/ "Trung tâm Đào tạo quốc tế")
+
+- [Cổng thông tin Hợp tác quốc tế](https://htqt.ptit.edu.vn/vi "Cổng thông tin Hợp tác quốc tế")
+
+- [Viện Công nghệ Thông tin và Truyền thông CDIT](https://cdit.ptit.edu.vn/ "Viện Công nghệ Thông tin và Truyền thông CDIT")
+
+© Copyright 2024 HocVienCongNgheBuuChinhVienThong, All rights reserved ® Học viện Công nghệ Bưu chính Viễn thông giữ bản quyền nội dung trên website này
+
+[Go to top](https://daotao.ptit.edu.vn/chuong-trinh-dao-tao/chuong-trinh-tri-tue-nhan-tao/#top "Go to top")
