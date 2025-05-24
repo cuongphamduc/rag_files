@@ -55,96 +55,64 @@ Chuẩn đầu ra
 [LO9] Having moral qualities, professional awareness, civic responsibility, initiative in creativity, awareness and capacity for cooperation at work; Ability to guide and supervise others to perform tasks in professional and management work;
 [LO10] Có khả năng tự định hướng, đưa ra các quyết định liên quan đến công tác chuyên môn và quản lý, đồng thời có thể bảo vệ được quan điểm cá nhân; Có năng lực lập kế hoạch, phát huy trí tuệ tập thể và đánh giá, cải tiến các hoạt động liên quan đến chuyên môn Kế toán, kiểm toán, thuế, tài chính; có khả năng thích nghi và hội nhập tốt với sự thay đổi trong môi trường làm việc có tính quốc tế.
 [LO10] Ability to self-direct, make decisions related to professional and managerial work, and be able to defend personal views; Ability to plan, promote collective intelligence and evaluate and improve activities related to accounting, auditing, tax and finance expertise; Ability to adapt and integrate well with changes in the international working environment.
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Kế toán – Chất lượng cao chuẩn quốc tế – ACCA
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-4 tín chỉ
-Toán cao cấp cho kinh tế
-8 tín chỉ
-Tiếng Anh (Course 1)_CLC
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác Lênin
-8 tín chỉ
-Tiếng Anh (Course 2)_CLC
-2 tín chỉ
-Pháp luật đại cương
-4 tín chỉ
-Kinh doanh và công nghệ 1-ACCA
-3 tín chỉ
-Nguyên lý kế toán
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-8 tín chỉ
-Tiếng Anh (Course 3)_CLC
-4 tín chỉ
-Kinh doanh và công nghệ 2 - ACCA
-4 tín chỉ
-Kế toán tài chính 1-ACCA
-Học kỳ 4
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-3 tín chỉ
-Tin học cơ sở theo chuẩn quốc tế
-2 tín chỉ
-Luật kinh doanh
-3 tín chỉ
-Tài chính tiền tệ
-4 tín chỉ
-Kế toán Quản trị 1 - ACCA
-4 tín chỉ
-Kế toán tài chính 2 - ACCA
-Học kỳ 5
-2 tín chỉ
-Lịch sử Đảng Cộng Sản Việt Nam
-4 tín chỉ
-Kế toán Quản trị 2 - ACCA
-4 tín chỉ
-Kiểm toán và dịch vụ đảm bảo - ACCA
-3 tín chỉ
-Kế toán doanh nghiệp Việt Nam
-6 tín chỉ
-Tổ hợp môn tự chọn *
-Học kỳ 6
-4 tín chỉ
-Thuế 1 - ACCA
-4 tín chỉ
-Báo cáo tài chính 1 - ACCA
-2 tín chỉ
-Báo cáo tài chính 2 - ACCA
-3 tín chỉ
-Quản trị hiệu quả hoạt động- ACCA
-3 tín chỉ
-Kiểm toán tài chính
-2 tín chỉ
-Hệ thống thông tin kế toán
-Học kỳ 7
-3 tín chỉ
-Kế toán thuế
-2 tín chỉ
-Thuế 2- ACCA
-4 tín chỉ
-Quản trị tài chính 1 - ACCA
-2 tín chỉ
-Quản trị tài chính 2 - ACCA
-6 tín chỉ
-Tổ hợp môn tự chọn *
-Học kỳ 8
-4 tín chỉ
-Thực tập
-3 tín chỉ
-Tốt nghiệp/Đề án tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                 | Số tín chỉ   | Loại học phần             |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                      | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Toán cao cấp cho kinh tế                                 | 4            | Cơ sở ngành               |
+| Học kỳ 1 | Tiếng Anh (Course 1)_CLC                                 | 8            | Bổ trợ ngành              |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác Lênin                              | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 2)_CLC                                 | 8            | Bổ trợ ngành              |
+| Học kỳ 2 | Pháp luật đại cương                                      | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Kinh doanh và công nghệ 1 - ACCA                         | 4            | Chuyên ngành              |
+| Học kỳ 2 | Nguyên lý kế toán                                        | 3            | Cơ sở ngành               |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 3)_CLC                                 | 8            | Bổ trợ ngành              |
+| Học kỳ 3 | Kinh doanh và công nghệ 2 - ACCA                         | 4            | Chuyên ngành              |
+| Học kỳ 3 | Kế toán tài chính 1 - ACCA                               | 4            | Chuyên ngành              |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                                     | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tin học cơ sở theo chuẩn quốc tế                         | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 4 | Luật kinh doanh                                          | 2            | Cơ sở ngành               |
+| Học kỳ 4 | Tài chính tiền tệ                                        | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Kế toán Quản trị 1 - ACCA                                | 4            | Chuyên ngành              |
+| Học kỳ 4 | Kế toán tài chính 2 - ACCA                               | 4            | Chuyên ngành              |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng Cộng Sản Việt Nam                           | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                                | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Hệ điều hành                                             | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kế toán Quản trị 2 - ACCA                                | 4            | Chuyên ngành              |
+| Học kỳ 5 | Kiểm toán và dịch vụ đảm bảo - ACCA                      | 4            | Chuyên ngành              |
+| Học kỳ 5 | Kế toán doanh nghiệp Việt Nam                            | 3            | Chuyên ngành              |
+| Học kỳ 5 | Tổ hợp môn tự chọn *                                     | 6            | Chuyên ngành              |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Thuế 1 - ACCA                                            | 4            | Chuyên ngành              |
+| Học kỳ 6 | Báo cáo tài chính 1 - ACCA                               | 4            | Chuyên ngành              |
+| Học kỳ 6 | Báo cáo tài chính 2 - ACCA                               | 2            | Chuyên ngành              |
+| Học kỳ 6 | Quản trị hiệu quả hoạt động - ACCA                       | 3            | Chuyên ngành              |
+| Học kỳ 6 | Kiểm toán tài chính                                      | 3            | Chuyên ngành              |
+| Học kỳ 6 | Hệ thống thông tin kế toán                               | 2            | Cơ sở ngành               |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Kế toán thuế                                             | 3            | Chuyên ngành              |
+| Học kỳ 7 | Thuế 2 - ACCA                                            | 2            | Chuyên ngành              |
+| Học kỳ 7 | Quản trị tài chính 1 - ACCA                              | 4            | Chuyên ngành              |
+| Học kỳ 7 | Quản trị tài chính 2 - ACCA                              | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 7 | Tổ hợp môn tự chọn *                                     | 3            | Chuyên ngành              |
++----------+----------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập                                                 | 4            | Thực tập                  |
+| Học kỳ 8 | Tốt nghiệp/Đề án tốt nghiệp                              | 3            | Luận văn tốt nghiệp       |
++----------+----------------------------------------------------------+--------------+---------------------------+
+
+
+
+
+
 Nghề nghiệp
 Sau khi tốt nghiệp ngành Kế toán chất lượng cao chuẩn quốc tế ACCA, sinh viên có đủ năng lực để đảm nhận các vị trí công việc ở các nhóm sau:
 After graduating in high-quality accounting education program in International Standard Accounting - ACCA, students are qualified to undertake work positions in the following groups:

@@ -61,110 +61,69 @@ Sinh viên có phương pháp làm việc khoa học và chuyên nghiệp, tư d
 1.6 Về ngoại ngữ
 - Sau khi tốt nghiệp, sinh viên có năng lực tiếng Anh tương đương với trình độ B1 khung tham chiếu chung Châu Âu (CEFR) hay Bậc 3 theo khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam.
 - Có khả năng sử dụng tiếng Anh tốt trong các hoạt động liên quan đến nghề nghiệp được đào tạo.
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Kế toán
-Học kỳ 1
-2 tín chỉ
-NNLCB CN Mác-Lênin 1
-3 tín chỉ
-Kinh tế vi mô 1
-2 tín chỉ
-Tin học cơ sở 1
-2 tín chỉ
-Toán cao cấp 1
-2 tín chỉ
-Pháp luật đại cương
-Học kỳ 2
-3 tín chỉ
-NNLCB CN Mác-Lênin 2
-3 tín chỉ
-Tiếng Anh A11/A21
-2 tín chỉ
-Toán cao cấp 2
-3 tín chỉ
-Lý thuyết xác suất và thống kê
-3 tín chỉ
-Tin học cơ sở 3
-3 tín chỉ
-Kinh tế mô 1
-Học kỳ 3
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-4 tín chỉ
-Tiếng Anh A12/A22
-3 tín chỉ
-Toán kinh tế
-3 tín chỉ
-Nguyên lý kế toán
-3 tín chỉ
-Marketing căn bản
-3 tín chỉ
-Quản trị học
-Học kỳ 4
-3 tín chỉ
-Đường lối cách mạng ĐCSVN
-3 tín chỉ
-Tiếng Anh A21/B11
-3 tín chỉ
-Kế toán quản trị 1
-3 tín chỉ
-Kế toán tài chính 1
-3 tín chỉ
-Tài chính tiền tệ
-4 tín chỉ
-Luật kinh doanh
-3 tín chỉ
-Quản trị tài chính doanh nghiệp
-Học kỳ 5
-4 tín chỉ
-Tiếng Anh A22/ B12
-2 tín chỉ
-Thanh toán quốc tế
-3 tín chỉ
-Kiểm toán căn bản
-3 tín chỉ
-Kế toán tài chính 2
-3 tín chỉ
-Kế toán quản trị 2
-3 tín chỉ
-Hệ thống thông tin kế toán
-Học kỳ 6
-3 tín chỉ
-Nguyên lý thống kê kinh tế
-3 tín chỉ
-ACCA
-3 tín chỉ
-Thuế và kế toán thuế
-2 tín chỉ
-Phân tích báo cáo tài chính DN
-3 tín chỉ
-Kế toán tài chính 3
-6 tín chỉ
-03 học phần tự chọn
-Học kỳ 7
-2 tín chỉ
-Phương pháp luận NCKH
-2 tín chỉ
-Phân tích hoạt động kinh doanh
-3 tín chỉ
-CFA
-2 tín chỉ
-Kế toán máy
-3 tín chỉ
-Kiểm toán tài chính
-6 tín chỉ
-03 học phần tự chọn
-Học kỳ 8
-10 tín chỉ
-Thực tập và tốt nghiệp (hoặc các học phần thay thế tốt nghiệp)
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                     | Số tín chỉ   | Loại học phần             |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | NNLCB CN Mác-Lênin 1                                         | 2            | Bắt buộc chung            |
+| Học kỳ 1 | Kinh tế vi mô 1                                              | 3            | Cơ sở ngành               |
+| Học kỳ 1 | Tin học cơ sở 1                                              | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Toán cao cấp 1                                               | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Pháp luật đại cương                                          | 2            | Bắt buộc chung            |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | NNLCB CN Mác-Lênin 2                                         | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh A11/A21                                            | 3            | Bổ trợ ngành              |
+| Học kỳ 2 | Toán cao cấp 2                                               | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Lý thuyết xác suất và thống kê                               | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tin học cơ sở 3                                              | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Kinh tế mô 1                                                 | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Tư tưởng Hồ Chí Minh                                         | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh A12/A22                                            | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Toán kinh tế                                                 | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Nguyên lý kế toán                                            | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Marketing căn bản                                            | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Quản trị học                                                 | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Đường lối cách mạng DCSVN                                    | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh A21/B11                                            | 3            | Bổ trợ ngành              |
+| Học kỳ 4 | Kế toán quản trị 1                                           | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Kế toán tài chính 1                                          | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Tài chính tiền tệ                                            | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Luật kinh doanh                                              | 2            | Cơ sở ngành               |
+| Học kỳ 4 | Quản trị tài chính doanh nghiệp                              | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Tiếng Anh A22/B12                                            | 3            | Bổ trợ ngành              |
+| Học kỳ 5 | Thanh toán quốc tế                                           | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Kiểm toán căn bản                                            | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kế toán tài chính 2                                          | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kế toán quản trị 2                                           | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Hệ thống thông tin kế toán                                   | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Nguyên lý thống kê kinh tế                                   | 3            | Chuyên ngành              |
+| Học kỳ 6 | ACCA                                                         | 3            | Chuyên ngành              |
+| Học kỳ 6 | Thuế và kế toán thuế                                         | 3            | Chuyên ngành              |
+| Học kỳ 6 | Phân tích báo cáo tài chính DN                               | 2            | Chuyên ngành              |
+| Học kỳ 6 | Kế toán tài chính 3                                          | 3            | Cơ sở ngành               |
+| Học kỳ 6 | 03 học phần tự chọn                                          | 6            | Chuyên ngành              |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Phương pháp luận NCKH                                        | 3            | Bắt buộc chung            |
+| Học kỳ 7 | Phân tích hoạt động kinh doanh                               | 2            | Chuyên ngành              |
+| Học kỳ 7 | CFA                                                          | 3            | Chuyên ngành              |
+| Học kỳ 7 | Kế toán máy                                                  | 2            | Cơ sở ngành               |
+| Học kỳ 7 | Kiểm toán tài chính                                          | 3            | Chuyên ngành              |
+| Học kỳ 7 | 03 học phần tự chọn                                          | 6            | Chuyên ngành              |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp (hoặc các học phần thay thế tốt nghiệp)| 10         | Luận văn tốt nghiệp       |
++----------+--------------------------------------------------------------+--------------+---------------------------+
+
+
+
+
+
 Nghề nghiệp
 Sinh viên có thể làm việc tại các vị trí cụ thể:
 - Các Tổng cục, Cục, Vụ: Tổng cục Thuế, Cục Thuế, Cục Tài chính doanh nghiệp, Cục Tin học và thống kê tài chính; Vụ Tài chính, Vụ Chế độ kế toán và kiểm toán, Vụ Tài chính các ngân hàng và tổ chức tài chính, Vụ Tài chính hành chính sự nghiệp, Vụ Chính sách thuế

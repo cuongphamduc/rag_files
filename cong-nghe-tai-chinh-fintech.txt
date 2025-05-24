@@ -50,112 +50,70 @@ c. Kỹ năng ngoại ngữ và tin học
 [PLO13] Có phẩm chất đạo đức, ý thức nghề nghiệp, trách nhiệm công dân, có ý thức và năng lực hợp tác trong công việc;
 [PLO14] Tự định hướng, đưa ra các quyết định liên quan đến công tác chuyên môn và quản lý, đồng thời có thể bảo vệ được quan điểm cá nhân;
 [PLO15] Có năng lực lập kế hoạch, điều phối các nguồn lực trong tổ chức/ doanh nghiệp, phát huy trí tuệ tập thể và đánh giá, cải tiến các hoạt động liên quan đến chuyên môn công nghệ tài chính.
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Công nghệ tài chính – Fintech
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Tin học cơ sở 1
-3 tín chỉ
-Nguyên lý kế toán
-2 tín chỉ
-Toán cao cấp 1
-2 tín chỉ
-Pháp luật đại cương
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh Course 1
-2 tín chỉ
-Tin học cơ sở 2
-2 tín chỉ
-Toán cao cấp 2
-3 tín chỉ
-Kế toán quản trị
-3 tín chỉ
-Tài chính tiền tệ
-3 tín chỉ
-Cơ sở dữ liệu (Fintech)
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-4 tín chỉ
-Tiếng Anh Course 2
-3 tín chỉ
-Lý thuyết xác suất và thống kê
-3 tín chỉ
-Tài chính doanh nghiệp
-3 tín chỉ
-XNK và thanh toán quốc tế
-2 tín chỉ
-Lập trình Python (Fintech)
-Học kỳ 4
-2 tín chỉ
-Lịch sử Đảng cộng sản Việt Nam
-4 tín chỉ
-Tiếng Anh Course 3
-3 tín chỉ
-Công nghệ tài chính căn bản
-3 tín chỉ
-Phân tích nghiệp vụ kinh doanh
-3 tín chỉ
-Lập trình web (Fintech)
-3 tín chỉ
-01 học phần tự chọn
-Học kỳ 5
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-2 tín chỉ
-Tiếng Anh Course 3 Plus
-3 tín chỉ
-Phân tích và thiết kế HTTT quản lý (Fintech)
-3 tín chỉ
-01 học phần tự chọn
-3 tín chỉ
-Đầu tư tài chính
-3 tín chỉ
-Phân tích và lập kế hoạch tài chính
-3 tín chỉ
-An toàn bảo mật thông tin (Fintech)
-Học kỳ 6
-3 tín chỉ
-Nghiệp vụ ngân hàng thương mạ
-3 tín chỉ
-Kinh tế lượng tài chính
-3 tín chỉ
-CN Blockchain và ƯD trong TC
-3 tín chỉ
-Tài chính hành vi
-3 tín chỉ
-Đề án Công nghệ tài chính
-3 tín chỉ
-01 học phần tự chọn
-Học kỳ 7
-3 tín chỉ
-Trí tuệ nhân tạo trong TC
-3 tín chỉ
-Quản trị rủi ro tài chính
-2 tín chỉ
-Quản lý và ứng dụng dữ liệu trong TC
-3 tín chỉ
-Phân tích dữ liệu tài chính quy mô lớn
-3 tín chỉ
-Đổi mới sáng tạo tài chính
-3 tín chỉ
-01 học phần tự chọn
-Học kỳ 8
-10 tín chỉ
-Thực tập và tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
+
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                                 | Số tín chỉ   | Loại học phần             |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                                      | 3            | Bắt buộc chung            |
+|          | Tin học cơ sở 1                                                          | 2            | Bắt buộc chung nhóm ngành |
+|          | Nguyên lý kế toán                                                        | 3            | Cơ sở ngành               |
+|          | Toán cao cấp 1                                                           | 2            | Bắt buộc chung nhóm ngành |
+|          | Pháp luật đại cương                                                      | 2            | Bắt buộc chung            |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                              | 2            | Bắt buộc chung            |
+|          | Tiếng Anh Course 1                                                       | 4            | Bổ trợ ngành              |
+|          | Tin học cơ sở 2                                                          | 2            | Bắt buộc chung nhóm ngành |
+|          | Toán cao cấp 2                                                           | 2            | Bắt buộc chung nhóm ngành |
+|          | Kế toán quản trị                                                         | 3            | Cơ sở ngành               |
+|          | Tài chính tiền tệ                                                        | 3            | Cơ sở ngành               |
+|          | Cơ sở dữ liệu (Fintech)                                                  | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                                | 2            | Bắt buộc chung            |
+|          | Tiếng Anh Course 2                                                       | 4            | Bổ trợ ngành              |
+|          | Lý thuyết xác suất và thống kê                                           | 3            | Bắt buộc chung nhóm ngành |
+|          | Tài chính doanh nghiệp                                                   | 3            | Cơ sở ngành               |
+|          | XNK và thanh toán quốc tế                                               | 3            | Cơ sở ngành               |
+|          | Lập trình Python (Fintech)                                               | 2            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Lịch sử Đảng cộng sản Việt Nam                                           | 2            | Bắt buộc chung            |
+|          | Tiếng Anh Course 3                                                       | 4            | Bổ trợ ngành              |
+|          | Công nghệ tài chính căn bản                                              | 3            | Cơ sở ngành               |
+|          | Phân tích nghiệp vụ kinh doanh                                           | 3            | Cơ sở ngành               |
+|          | Lập trình web (Fintech)                                                  | 3            | Cơ sở ngành               |
+|          | 01 học phần tự chọn                                                      | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Tư tưởng Hồ Chí Minh                                                     | 2            | Bắt buộc chung            |
+|          | Tiếng Anh Course 3 Plus                                                  | 2            | Bổ trợ ngành              |
+|          | Phân tích và thiết kế HTTT quản lý (Fintech)                             | 3            | Cơ sở ngành               |
+|          | 01 học phần tự chọn                                                      | 3            | Cơ sở ngành               |
+|          | Đầu tư tài chính                                                         | 3            | Chuyên ngành              |
+|          | Phân tích và lập kế hoạch tài chính                                      | 3            | Chuyên ngành              |
+|          | An toàn bảo mật thông tin (Fintech)                                      | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Nghiệp vụ ngân hàng thương mại                                           | 3            | Cơ sở ngành               |
+|          | Kinh tế lượng tài chính                                                  | 3            | Cơ sở ngành               |
+|          | CN Blockchain và ỨD trong TC                                             | 3            | Chuyên ngành              |
+|          | Tài chính hành vi                                                        | 3            | Chuyên ngành              |
+|          | Đề án Công nghệ tài chính                                                | 3            | Chuyên ngành              |
+|          | 01 học phần tự chọn                                                      | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Trí tuệ nhân tạo trong TC                                                | 3            | Chuyên ngành              |
+|          | Quản trị rủi ro tài chính                                                | 3            | Chuyên ngành              |
+|          | Quản lý và ứng dụng dữ liệu trong TC                                     | 2            | Chuyên ngành              |
+|          | Phân tích dữ liệu tài chính quy mô lớn                                   | 3            | Chuyên ngành              |
+|          | Đổi mới sáng tạo tài chính                                               | 3            | Chuyên ngành              |
+|          | 01 học phần tự chọn                                                      | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp                                                  | 10           | Luận văn tốt nghiệp       |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+
+
+
+
+
 Nghề nghiệp
 Nhóm 1: Các bộ phận quản lý hệ thống thông tin, quản trị phân tích dữ liệu, quản trị và phân tích rủi ro, quản lý dự án công nghệ tại các định chế tài chính; bộ phát triển công nghệ tài chính, phát triển các giải pháp công nghệ tại các định chế tài chính (ngân hàng, công ty tài chính, công ty bảo hiểm, công ty chứng khoán).
 Nhóm 2: Bộ phận phát triển các giải pháp dịch vụ công nghệ tài chính trong công ty Fintech hoặc tự tạo lập doanh nghiệp khởi nghiệp Fintech riêng cho bản thân.

@@ -71,124 +71,76 @@ Hiểu được vai trò và trách nhiệm của mình về sự phát tri�
 LO22: Khả năng học tập nâng cao trình độ sau khi tốt nghiệp
 Có nhận thức về sự cần thiết và tham gia vào việc học tập liên tục, suốt đời trong bối cảnh toàn cầu hóa với các công nghệ và kỹ thuật mới liên tục xuất hiện. Có năng lực học tập suốt đời, đảm bảo kiến thức về chuyên môn và nghiệp vụ.
 Có khả năng thực hiện được các đề tài nghiên cứu khoa học để học lên bậc thạc sĩ, tiến sĩ thuộc các ngành thuộc lĩnh vực Máy tính, Công nghệ thông tin, Khoa học/Kĩ thuật dữ liệu ở trong và ngoài nước
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Kỹ thuật dữ liệu
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Tin học cơ sở 1
-3 tín chỉ
-Đại số
-3 tín chỉ
-Giải tích 1
-3 tín chỉ
-Toán rời rạc
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh Course 1
-2 tín chỉ
-Tin học cơ sở 2
-3 tín chỉ
-Giải tích 2
-2 tín chỉ
-Lý thuyết xác xuất
-3 tín chỉ
-Nhập môn kĩ thuật dữ liệu
-2 tín chỉ
-Kiến trúc máy tính
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-4 tín chỉ
-Tiếng Anh Course 2
-4 tín chỉ
-Vật lý 1 và thí nghiệm
-3 tín chỉ
-Kĩ thuật lập trình
-3 tín chỉ
-Hệ điều hành
-3 tín chỉ
-Xử lý dữ liệu đa phương tiện
-Học kỳ 4
-2 tín chỉ
-Lịch sử Đảng cộng sản Việt Nam
-4 tín chỉ
-Tiếng Anh Course 3
-4 tín chỉ
-Vật lý 2 và thí nghiệm
-2 tín chỉ
-Pháp luật đại cương
-3 tín chỉ
-Cấu trúc dữ liệu và giải thuật
-3 tín chỉ
-Cơ sở dữ liệu
-3 tín chỉ
-Mạng truyền dữ liệu
-Học kỳ 5
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-2 tín chỉ
-Tiếng Anh Course 3 Plus
-2 tín chỉ
-Điện toán đám mây
-3 tín chỉ
-Nhập môn trí tuệ nhân tạo
-3 tín chỉ
-Hệ quản trị cơ sở dữ liệu
-3 tín chỉ
-Phương pháp thống kê dữ liệu
-3 tín chỉ
-Lưu trữ dữ liệu
-Học kỳ 6
-2 tín chỉ
-Phương pháp luận NCKH
-3 tín chỉ
-Lập trình hướng đối tượng
-3 tín chỉ
-An toàn mạng thông tin
-3 tín chỉ
-Tính toán song song và hệ thống phân tán
-2 tín chỉ
-Đồ án ngành
-3 tín chỉ
-Kỹ thuật phân tích dữ liệu
-3 tín chỉ
-Khai phá dữ liệu
-Học kỳ 7
-3 tín chỉ
-Công nghệ phần mềm
-3 tín chỉ
-Kho dữ liệu
-3 tín chỉ
-Học phần tự chọn 1
-3 tín chỉ
-Trực quan hoá dữ liệu
-3 tín chỉ
-Dữ liệu lớn
-2 tín chỉ
-Thực tập Cơ sở
-Học kỳ 8
-2 tín chỉ
-Hệ thống dữ liệu
-3 tín chỉ
-Học phần tự chọn 2
-3 tín chỉ
-Học phần tự chọn 3
-3 tín chỉ
-Học phần tự chọn 4
-3 tín chỉ
-Phân tích dữ liệu lớn
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                   | Số tín chỉ   | Loại học phần             |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                        | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tin học cơ sở 1                                            | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Đại số                                                     | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Giải tích 1                                                | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Toán rời rạc                                               | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh Course 1                                         | 4            | Bổ trợ ngành              |
+| Học kỳ 2 | Tin học cơ sở 2                                            | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Giải tích 2                                                | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Lý thuyết xác suất                                         | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Nhập môn kĩ thuật dữ liệu                                  | 3            | Cơ sở ngành               |
+| Học kỳ 2 | Kiến trúc máy tính                                         | 2            | Cơ sở ngành               |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                  | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh Course 2                                         | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Vật lý 1 và thí nghiệm                                     | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Kĩ thuật lập trình                                         | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Hệ điều hành                                               | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Xử lý dữ liệu đa phương tiện                               | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Lịch sử Đảng Cộng sản Việt Nam                             | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh Course 3                                         | 4            | Bổ trợ ngành              |
+| Học kỳ 4 | Vật lý 2 và thí nghiệm                                     | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 4 | Pháp luật đại cương                                        | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Cấu trúc dữ liệu và giải thuật                             | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Cơ sở dữ liệu                                              | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Mạng truyền dữ liệu                                        | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Tư tưởng Hồ Chí Minh                                       | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh Course 3 Plus                                    | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Điện toán đám mây                                          | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Nhập môn trí tuệ nhân tạo                                  | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Hệ quản trị cơ sở dữ liệu                                  | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Phương pháp thống kê dữ liệu                               | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Lưu trữ dữ liệu                                            | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Phương pháp luận NCKH                                     | 2            | Bắt buộc chung            |
+| Học kỳ 6 | Lập trình hướng đối tượng                                  | 3            | Cơ sở ngành               |
+| Học kỳ 6 | An toàn mạng thông tin                                     | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Tính toán song song và hệ thống phân tán                   | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Đồ án ngành                                                | 2            | Cơ sở ngành               |
+| Học kỳ 6 | Kỹ thuật phân tích dữ liệu                                 | 3            | Chuyên ngành              |
+| Học kỳ 6 | Khai phá dữ liệu                                           | 3            | Chuyên ngành              |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Công nghệ phần mềm                                         | 3            | Cơ sở ngành               |
+| Học kỳ 7 | Kho dữ liệu                                                | 3            | Cơ sở ngành               |
+| Học kỳ 7 | Học phần tự chọn 1                                         | 3            | Chuyên ngành              |
+| Học kỳ 7 | Trực quan hoá dữ liệu                                      | 3            | Chuyên ngành              |
+| Học kỳ 7 | Dữ liệu lớn                                                | 3            | Chuyên ngành              |
+| Học kỳ 7 | Thực tập Cơ sở                                             | 2            | Thực tập                  |
++----------+------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Hệ thống dữ liệu                                           | 2            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn 2                                         | 3            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn 3                                         | 3            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn 4                                         | 3            | Chuyên ngành              |
+| Học kỳ 8 | Phân tích dữ liệu lớn                                      | 3            | Chuyên ngành              |
++----------+------------------------------------------------------------+--------------+---------------------------+
+
+
+
+
+
+
 Nghề nghiệp
 Sinh viên tốt nghiệp chương trình Kĩ thuật dữ liệu là những ứng cử viên tiềm năng cho các công việc tư vấn, thiết kế, phát triển, vận hành, giám sát, quản lý, giảng dạy, nghiên cứu v.v, trong hầu hết các tổ chức có liên quan và sử dụng tới công nghệ dữ liệu, công nghệ thông tin, như các doanh nghiệp cung cấp dịch vụ, các tổ chức và doanh nghiệp ứng dụng hệ thống cơ sở dữ liệu và dịch vụ CNTT, các doanh nghiệp triển khai hệ thống ICT trong điều hành sản xuất, kinh doanh, các cơ quan nhà nước, viện nghiên cứu, trường đại học. Cụ thể: Sau khi tốt nghiệp chương trình Kĩ thuật dữ liệu, sinh viên có đủ năng lực để đảm nhận các vị trí công việc ở các nhóm sau:
 Nhóm 1: Các bộ phận quản lý, khai thác, vận hành và bảo dưỡng trung tâm dữ liệu, hệ thống dữ liệu, quản trị phân tích dữ liệu, quản lý dự án dữ liệu; bộ phận phát triển công nghệ dữ liệu, phát triển sản phẩm dịch vụ liên quan đến dữ liệu.

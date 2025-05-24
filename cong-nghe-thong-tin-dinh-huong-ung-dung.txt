@@ -69,103 +69,123 @@ LO16: Đạt trình độ tương đương chứng chỉ CCNA (Routing and Switc
 LO17: Có khả năng sáng tạo trong quá trình thực hiện nhiệm vụ được giao; có khả năng đưa ra được kết luận về các vấn đề nghiệp vụ và kỹ thuật phức tạp về công nghệ thông tin ứng dụng; 
 LO18: Có năng lực hướng dẫn, giám sát người khác thực hiện nhiệm vụ xác định; hiểu biết về các giá trị đạo đức và trách nhiệm với công việc đảm nhiệm; 
 LO19: Có năng lực lập kế hoạch, điều phối, phát huy trí tuệ tập thể và đánh giá, cải tiến các hoạt động chuyên môn. 
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Công nghệ phần mềm
-Hệ thống thông tin
-Học kỳ 1
-3 tín chỉ
-Đại số
-3 tín chỉ
-Giải tích 1
-2 tín chỉ
-Pháp luật đại cương
-3 tín chỉ
-Nhập môn lập trình với Python
-Học kỳ 2
-2 tín chỉ
-Xác suất thống kê
-3 tín chỉ
-Giải tích
-4 tín chỉ
-Tiếng Anh (Course 1)
-3 tín chỉ
-Lập trình với ngôn ngữ Script
-3 tín chỉ
-Cơ sở dữ liệu
-Học kỳ 3
-3 tín chỉ
-Triết học Mác-Lênin
-4 tín chỉ
-Tiếng Anh (Course 2)
-3 tín chỉ
-Lập trình hướng đối tượng
-3 tín chỉ
-Toán rời rạc 1
-3 tín chỉ
-Lập trình web
-Học kỳ 4
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh (Course 3)
-3 tín chỉ
-An toàn và bảo mật hệ thống thông tin
-2 tín chỉ
-Quản lý dự án phần mềm
-3 tín chỉ
-Thực hành lập trình web
-3 tín chỉ
-Học phần doanh nghiệp 1
-Học kỳ 5
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-2 tín chỉ
-Tiếng Anh (Course 3 Plus)
-3 tín chỉ
-Phát triển ứng dụng cho các thiết bị di động
-3 tín chỉ
-Cấu trúc dữ liệu và giải thuật
-3 tín chỉ
-Nhập môn công nghệ nền tảng
-3 tín chỉ
-Nhập môn tích hợp hệ thống
-Học kỳ 6
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-4 tín chỉ
-Mạng máy tính theo CCNA
-3 tín chỉ
-Học phần doanh nghiệp 2
-3 tín chỉ
-Nhập môn công nghệ phần mềm
-3 tín chỉ
-Kiến trúc và thiết kế phần mềm
-3 tín chỉ
-Thiết kế giao diện người dùng
-Học kỳ 7
-2 tín chỉ
-Lịch sử Đảng cộng sản VN
-3 tín chỉ
-Lập trình web nâng cao
-3 tín chỉ
-Đảm bảo chất lượng phần mềm
-3 tín chỉ
-Phân tích nghiệp vụ
-3 tín chỉ
-Phát triển ứng dụng di động đa nền tảng
-3 tín chỉ
-Học phần tự chọn
-Học kỳ 8
-12 tín chỉ
-Thực tập và tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
+1. Công nghệ phần mềm
+
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                                 | Số tín chỉ   | Loại học phần             |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Đại số                                                                   | 3            | Bắt buộc chung nhóm ngành |
+|          | Giải tích 1                                                              | 3            | Bắt buộc chung nhóm ngành |
+|          | Pháp luật đại cương                                                      | 2            | Bắt buộc chung            |
+|          | Nhập môn lập trình với Python                                            | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Xác suất thống kê                                                        | 2            | Bắt buộc chung nhóm ngành |
+|          | Giải tích                                                                | 3            | Bổ trợ ngành              |
+|          | Tiếng Anh (Course 1)                                                     | 4            | Bắt buộc chung            |
+|          | Lập trình với ngôn ngữ Script                                            | 3            | Cơ sở ngành               |
+|          | Cơ sở dữ liệu                                                            | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Triết học Mác-Lênin                                                      | 3            | Bắt buộc chung            |
+|          | Tiếng Anh (Course 2)                                                     | 4            | Bắt buộc chung            |
+|          | Lập trình hướng đối tượng                                                | 3            | Cơ sở ngành               |
+|          | Toán rời rạc 1                                                           | 3            | Cơ sở ngành               |
+|          | Lập trình web                                                            | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Kinh tế chính trị Mác-Lênin                                              | 2            | Bắt buộc chung            |
+|          | Tiếng Anh (Course 3)                                                     | 4            | Bắt buộc chung            |
+|          | An toàn và bảo mật hệ thống thông tin                                   | 3            | Cơ sở ngành               |
+|          | Quản lý dự án phần mềm                                                  | 2            | Cơ sở ngành               |
+|          | Thực hành lập trình web                                                  | 3            | Cơ sở ngành               |
+|          | Học phần doanh nghiệp 1                                                  | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Chủ nghĩa xã hội khoa học                                                | 2            | Bắt buộc chung            |
+|          | Tiếng Anh (Course 3 Plus)                                                | 2            | Bắt buộc chung            |
+|          | Phát triển ứng dụng cho các thiết bị di động                             | 3            | Cơ sở ngành               |
+|          | Cấu trúc dữ liệu và giải thuật                                           | 3            | Cơ sở ngành               |
+|          | Nhập môn công nghệ nền tảng                                              | 3            | Cơ sở ngành               |
+|          | Nhập môn tích hợp hệ thống                                               | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Tư tưởng Hồ Chí Minh                                                     | 2            | Bắt buộc chung            |
+|          | Mạng máy tính theo CCNA                                                  | 4            | Cơ sở ngành               |
+|          | Học phần doanh nghiệp 2                                                  | 3            | Cơ sở ngành               |
+|          | Nhập môn công nghệ phần mềm                                              | 3            | Chuyên ngành              |
+|          | Kiến trúc và thiết kế phần mềm                                           | 3            | Chuyên ngành              |
+|          | Thiết kế giao diện người dùng                                            | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Lịch sử Đảng cộng sản VN                                                 | 2            | Bắt buộc chung            |
+|          | Lập trình web nâng cao                                                   | 3            | Chuyên ngành              |
+|          | Đảm bảo chất lượng phần mềm                                              | 3            | Chuyên ngành              |
+|          | Phân tích nghiệp vụ                                                      | 3            | Chuyên ngành              |
+|          | Phát triển ứng dụng di động đa nền tảng                                  | 3            | Chuyên ngành              |
+|          | Học phần tự chọn                                                         | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp                                                  | 12           | Thực tập                  |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+
+
+
+2. Hệ thống thông tin
+
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                                 | Số tín chỉ   | Loại học phần             |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Đại số                                                                   | 3            | Bắt buộc chung nhóm ngành |
+|          | Giải tích 1                                                              | 3            | Bắt buộc chung nhóm ngành |
+|          | Pháp luật đại cương                                                      | 2            | Bắt buộc chung            |
+|          | Nhập môn lập trình với Python                                            | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Xác suất thống kê                                                        | 2            | Bắt buộc chung nhóm ngành |
+|          | Giải tích                                                                | 3            | Bổ trợ ngành              |
+|          | Tiếng Anh (Course 1)                                                     | 4            | Bắt buộc chung            |
+|          | Lập trình với ngôn ngữ Script                                            | 3            | Cơ sở ngành               |
+|          | Cơ sở dữ liệu                                                            | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Triết học Mác-Lênin                                                      | 3            | Bắt buộc chung            |
+|          | Tiếng Anh (Course 2)                                                     | 4            | Bắt buộc chung            |
+|          | Lập trình hướng đối tượng                                                | 3            | Cơ sở ngành               |
+|          | Toán rời rạc 1                                                           | 3            | Cơ sở ngành               |
+|          | Lập trình web                                                            | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Kinh tế chính trị Mác-Lênin                                              | 2            | Bắt buộc chung            |
+|          | Tiếng Anh (Course 3)                                                     | 4            | Bắt buộc chung            |
+|          | An toàn và bảo mật hệ thống thông tin                                   | 3            | Cơ sở ngành               |
+|          | Quản lý dự án phần mềm                                                  | 2            | Cơ sở ngành               |
+|          | Thực hành lập trình web                                                  | 3            | Cơ sở ngành               |
+|          | Học phần doanh nghiệp 1                                                  | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Chủ nghĩa xã hội khoa học                                                | 2            | Bắt buộc chung            |
+|          | Tiếng Anh (Course 3 Plus)                                                | 2            | Bắt buộc chung            |
+|          | Phát triển ứng dụng cho các thiết bị di động                             | 3            | Cơ sở ngành               |
+|          | Cấu trúc dữ liệu và giải thuật                                           | 2            | Cơ sở ngành               |
+|          | Nhập môn công nghệ nền tảng                                              | 3            | Cơ sở ngành               |
+|          | Nhập môn tích hợp hệ thống                                               | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Tư tưởng Hồ Chí Minh                                                     | 2            | Bắt buộc chung            |
+|          | Mạng máy tính theo CCNA                                                  | 4            | Cơ sở ngành               |
+|          | Học phần doanh nghiệp 2                                                  | 3            | Cơ sở ngành               |
+|          | Nhập môn DevOps                                                          | 3            | Chuyên ngành              |
+|          | Quản trị cơ sở dữ liệu nâng cao                                          | 3            | Chuyên ngành              |
+|          | Điện toán đám mây                                                        | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Lịch sử Đảng cộng sản VN                                                 | 2            | Bắt buộc chung            |
+|          | Kho dữ liệu và khai phá dữ liệu                                          | 3            | Chuyên ngành              |
+|          | Cấu hình hệ thống phân tán                                               | 3            | Chuyên ngành              |
+|          | Thực hành DevOps                                                         | 3            | Chuyên ngành              |
+|          | Phát triển hệ thống thông tin quản lý                                    | 3            | Chuyên ngành              |
+|          | Học phần tự chọn                                                         | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp                                                  | 12           | Thực tập                  |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+
+
+
+
+
+
 Nghề nghiệp
 Với những kiến thức nền tảng toàn diện, hiện đại và thực tiễn liên quan đến Công nghệ thông tin định hướng ứng dụng của Học viện, sau khi tốt nghiệp, sinh viên sẽ có nhiều cơ hội việc làm hấp dẫn tại các doanh nghiệp trong nước và nước ngoài. Các vị trí việc làm cụ thể mà sinh viên ngành Công nghệ thông tin định hướng ứng dụng của Học viên có thể đảm nhận tốt sau khi ra trường là: 
 - Lập trình viên website (Website Developer) 

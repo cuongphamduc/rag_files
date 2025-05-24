@@ -64,124 +64,269 @@ Chuẩn đầu ra
 [LO13]: Có ý thức nghề nghiệp, trách nhiệm công dân, chủ động sáng tạo trong công việc; có phẩm chất đạo đức tốt, tính kỷ luật cao; hiểu biết về các giá trị đạo đức và nghề nghiệp, ý thức về những vấn đề đương đại, hiểu rõ vai trò của các giải pháp kỹ thuật trong bối cảnh kinh tế, môi trường, xã hội toàn cầu và trong bối cảnh riêng của đất nước.
 [LO14]: Nhận biết và phân tích bối cảnh và ngoại cảnh tác động đến nghề nghiệp, tình hình đơn vị/tổ chức. Có phương pháp làm việc khoa học và chuyên nghiệp, tự định hướng, thích nghi với các môi trường làm việc khác nhau.
 [LO15]: Có khả năng tự học tập, nghiên cứu, tích lũy kinh nghiệm để thích nghi với môi trường làm việc năng động, có thể chuyển tiếp lên các bậc học cao hơn.
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Chuyên Ngành Xử lý tín hiệu truyền thông
-Chuyên ngành Điện tử máy tính
-Chuyên ngành Kỹ thuật Robot
-Chuyên ngành Thiết kế vi mạch
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Tin học cơ sở 1
-3 tín chỉ
-Giải tích 1
-3 tín chỉ
-Đại số
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh (Course 1)
-2 tín chỉ
-Tin học cơ sở 2
-3 tín chỉ
-Giải tích 2
-4 tín chỉ
-Vật lý 1 và Thí nghiệm
-2 tín chỉ
-Xác suất thống kê
-2 tín chỉ
-Nhập môn Kỹ thuật Điện tử
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-4 tín chỉ
-Tiếng Anh (Course 2)
-3 tín chỉ
-Toán kỹ thuật
-4 tín chỉ
-Vật lý 2 và Thí nghiệm
-3 tín chỉ
-Cấu kiện điện tử
-2 tín chỉ
-Cơ sở đo lường điện tử
-Học kỳ 4
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-4 tín chỉ
-Tiếng Anh (Course 3)
-3 tín chỉ
-Điện tử số
-3 tín chỉ
-Xử lý tín hiệu số
-3 tín chỉ
-Lý thuyết mạch
-3 tín chỉ
-Điện tử tương tự
-2 tín chỉ
-Pháp luật đại cương
-Học kỳ 5
-2 tín chỉ
-Lịch sử Đảng cộng sản VN
-2 tín chỉ
-Tiếng Anh (Course 3 Plus)
-3 tín chỉ
-Lý thuyết thông tin
-3 tín chỉ
-Cấu trúc dữ liệu và giải thuật
-3 tín chỉ
-Kiến trúc máy tính
-3 tín chỉ
-Lý thuyết trường điện tử và siêu cao tần
-Học kỳ 6
-3 tín chỉ
-Điện tử công suất
-3 tín chỉ
-Kỹ thuật vi xử lý
-3 tín chỉ
-Mạng máy tính
-2 tín chỉ
-Đồ án thiết kế mạch điện tử
-2 tín chỉ
-Truyền thông số
-3 tín chỉ
-Thiết kế logic số
-Học kỳ 7
-2 tín chỉ
-Phương pháp luận NCKH
-2 tín chỉ
-CAD/CAM
-3 tín chỉ
-Xử lý ảnh
-2 tín chỉ
-Đồ án xử lý tín hiệu số
-3 tín chỉ
-Hệ thống nhúng
-4 tín chỉ
-Học phần tự chọn
-Học kỳ 8
-3 tín chỉ
-Chuyên đề xử lý tín hiệu và truyền thông
-2 tín chỉ
-Thị giác máy tính
-2 tín chỉ
-Xử lý tín hiệu số thời gian thực
-3 tín chỉ
-Thực tập chuyên sâu
-6 tín chỉ
-Học phần tự chọn
-Học kỳ 9
-12 tín chỉ
-Thực tập và tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
+
+1. Chuyên Ngành Xử lý tín hiệu truyền thông
+
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                           | Số tín chỉ   | Loại học phần             |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tin học cơ sở 1                                    | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Giải tích 1                                        | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Đại số                                             | 3            | Bắt buộc chung nhóm ngành |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                        | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 1)                               | 4            | Bắt buộc chung            |
+| Học kỳ 2 | Tin học cơ sở 2                                    | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Giải tích 2                                        | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Vật lý 1 và Thí nghiệm                             | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Xác suất thống kê                                  | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Nhập môn Kỹ thuật Điện tử                          | 2            | Cơ sở ngành               |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                          | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 2)                               | 4            | Bắt buộc chung            |
+| Học kỳ 3 | Toán kỹ thuật                                      | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Vật lý 2 và Thí nghiệm                             | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Cấu kiện điện tử                                   | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Cơ sở đo lường điện tử                             | 2            | Cơ sở ngành               |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                               | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh (Course 3)                               | 4            | Bắt buộc chung            |
+| Học kỳ 4 | Điện tử số                                         | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Xử lý tín hiệu số                                  | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Lý thuyết mạch                                     | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử tương tự                                   | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Pháp luật đại cương                                | 2            | Bắt buộc chung            |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng Cộng sản VN                           | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                          | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Lý thuyết thông tin                                | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Cấu trúc dữ liệu và giải thuật                     | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kiến trúc máy tính                                 | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Lý thuyết trường điện từ và siêu cao tần           | 3            | Cơ sở ngành               |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Điện tử công suất                                  | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Kỹ thuật vi xử lý                                  | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Mạng máy tính                                      | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Truyền thông số                                    | 2            | Chuyên ngành              |
+| Học kỳ 6 | Thiết kế logic số                                  | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Đồ án thiết kế mạch điện tử                        | 2            | Chuyên ngành              |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Phương pháp luận NCKH                              | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 7 | CAD/CAM                                            | 2            | Chuyên ngành              |
+| Học kỳ 7 | Xử lý ảnh                                          | 3            | Cơ sở ngành               |
+| Học kỳ 7 | Đồ án xử lý tín hiệu số                            | 2            | Chuyên ngành              |
+| Học kỳ 7 | Hệ thống nhúng                                     | 3            | Chuyên ngành              |
+| Học kỳ 7 | Học phần tự chọn                                   | 4            | Chuyên ngành              |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Chuyên đề xử lý tín hiệu và truyền thông           | 3            | Chuyên ngành              |
+| Học kỳ 8 | Thị giác máy tính                                  | 2            | Cơ sở ngành               |
+| Học kỳ 8 | Xử lý tín hiệu số thời gian thực                   | 2            | Chuyên ngành              |
+| Học kỳ 8 | Thực tập chuyên sâu                                | 3            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn                                   | 6            | Chuyên ngành              |
++----------+----------------------------------------------------+--------------+---------------------------+
+| Học kỳ 9 | Thực tập và tốt nghiệp                             | 12           | Thực tập                  |
++----------+----------------------------------------------------+--------------+---------------------------+
+
+
+2. Chuyên ngành Điện tử máy tính
+
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                              | Số tín chỉ   | Loại học phần             |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                   | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tin học cơ sở 1                                       | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Giải tích 1                                           | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Đại số                                                | 3            | Bắt buộc chung nhóm ngành |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                           | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 1)                                  | 4            | Bắt buộc chung            |
+| Học kỳ 2 | Vật lý 1 và Thí nghiệm                                | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tin học cơ sở 2                                       | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Giải tích 2                                           | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Xác suất thống kê                                     | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Nhập môn Kỹ thuật Điện tử                             | 2            | Cơ sở ngành               |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                             | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 2)                                  | 4            | Bắt buộc chung            |
+| Học kỳ 3 | Toán kỹ thuật                                         | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Vật lý 2 và Thí nghiệm                                | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Cấu kiện điện tử                                      | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Cơ sở đo lường điện tử                                | 3            | Cơ sở ngành               |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                                  | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh (Course 3)                                  | 4            | Bắt buộc chung            |
+| Học kỳ 4 | Pháp luật đại cương                                   | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Xử lý tín hiệu số                                     | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử số                                            | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử tương tự                                      | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Lý thuyết mạch                                        | 3            | Cơ sở ngành               |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng Cộng sản VN                              | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                             | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Lý thuyết thông tin                                   | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Cấu trúc dữ liệu và giải thuật                        | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kiến trúc máy tính                                    | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Lý thuyết trường điện từ và siêu cao tần              | 3            | Cơ sở ngành               |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Thực hành cơ sở                                       | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Điện tử công suất                                     | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Kỹ thuật vi xử lý                                     | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Mạng máy tính                                         | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Truyền thông số                                       | 2            | Chuyên ngành              |
+| Học kỳ 6 | Thiết kế logic số                                     | 2            | Chuyên ngành              |
+| Học kỳ 6 | Đồ án thiết kế mạch điện tử                           | 2            | Chuyên ngành              |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Phương pháp luận NCKH                                 | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 7 | CAD/CAM                                               | 2            | Chuyên ngành              |
+| Học kỳ 7 | Hệ thống nhúng                                        | 3            | Chuyên ngành              |
+| Học kỳ 7 | Đồ án thiết kế hệ thống số                            | 3            | Chuyên ngành              |
+| Học kỳ 7 | Thiết kế hệ thống VLSI                                | 2            | Chuyên ngành              |
+| Học kỳ 7 | Học phần tự chọn                                      | 5            | Chuyên ngành              |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Đồ án Thiết kế hệ thống nhúng                         | 2            | Chuyên ngành              |
+| Học kỳ 8 | Mạng cảm biến                                         | 3            | Chuyên ngành              |
+| Học kỳ 8 | Hệ điều hành nhúng                                    | 3            | Chuyên ngành              |
+| Học kỳ 8 | Thực hành chuyên sâu                                  | 3            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn                                      | 5            | Chuyên ngành              |
++----------+-------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 9 | Thực tập và tốt nghiệp                                | 12           | Thực tập                  |
++----------+-------------------------------------------------------+--------------+---------------------------+
+
+
+3. Chuyên ngành Kỹ thuật Robot
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                      | Số tín chỉ   | Loại học phần             |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                           | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tin học cơ sở 1                                               | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Đại số                                                        | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Giải tích 1                                                   | 3            | Bắt buộc chung nhóm ngành |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                   | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 1)                                          | 4            | Bổ trợ ngành              |
+| Học kỳ 2 | Giải tích 2                                                   | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Vật lý 1 và Thí nghiệm                                        | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tin học cơ sở 2                                               | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Xác suất thống kê                                             | 2            | Bổ trợ ngành              |
+| Học kỳ 2 | Nhập môn Kỹ thuật Điện tử                                     | 2            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                     | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 2)                                          | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Toán kỹ thuật                                                 | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Vật lý 2 và Thí nghiệm                                        | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Cấu kiện điện tử                                              | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Cơ sở đo lường điện tử                                        | 2            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                                          | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh (Course 3)                                          | 4            | Bổ trợ ngành              |
+| Học kỳ 4 | Pháp luật đại cương                                           | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Xử lý tín hiệu số                                             | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử số                                                    | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử tương tự                                              | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Lý thuyết mạch                                                | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng cộng sản VN                                      | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                                     | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Lý thuyết thông tin                                           | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Cấu trúc dữ liệu và giải thuật                                | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kiến trúc máy tính                                            | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Lý thuyết trường điện từ và siêu cao tần                      | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Cơ sở điều khiển tự động                                      | 3            | Cơ sở ngành               
++----------+---------------------------------------------------------------+--------------+---------------------------+|
+| Học kỳ 6 | Thực hành cơ sở                                               | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Điện tử công suất                                             | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Kỹ thuật vi xử lý                                             | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Mạng máy tính                                                 | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Truyền thông số                                               | 2            | Chuyên ngành              |
+| Học kỳ 6 | Thiết kế logic số                                             | 3            | Chuyên ngành              |
+| Học kỳ 6 | Đồ án thiết kế mạch điện tử                                   | 2            | Chuyên ngành              |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Phương pháp luận NCKH                                         | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 7 | CAD/CAM                                                       | 2            | Chuyên ngành              |
+| Học kỳ 7 | Hệ thống nhúng                                                | 3            | Chuyên ngành              |
+| Học kỳ 7 | Cảm biến đo lường cho Robot                                   | 3            | Chuyên ngành              |
+| Học kỳ 7 | Cơ học cho Robot                                              | 2            | Chuyên ngành              |
+| Học kỳ 7 | Các cơ cấu truyền động và chấp hành Robot                     | 2            | Chuyên ngành              |
+| Học kỳ 7 | Học phần tự chọn                                              | 3            | Chuyên ngành              |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Lập trình Robot                                               | 3            | Chuyên ngành              |
+| Học kỳ 8 | Đồ án thiết kế và xây dựng Robot                              | 2            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn                                              | 8            | Chuyên ngành              |
+| Học kỳ 8 | Thực hành chuyên sâu                                          | 3            | Chuyên ngành              |
+| Học kỳ 9 | Thực tập và tốt nghiệp                                       | 12           | Luận văn tốt nghiệp       |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+
+
+4 .Chuyên ngành Thiết kế vi mạch
+
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                      | Số tín chỉ   | Loại học phần             |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                           | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tin học cơ sở 1                                               | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Đại số                                                        | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Giải tích 1                                                   | 3            | Bắt buộc chung nhóm ngành |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                   | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 1)                                          | 4            | Bổ trợ ngành              |
+| Học kỳ 2 | Vật lý 1 và Thí nghiệm                                        | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tin học cơ sở 2                                               | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Giải tích 2                                                   | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Xác suất thống kê                                             | 2            | Bổ trợ ngành              |
+| Học kỳ 2 | Nhập môn Kỹ thuật Điện tử                                     | 2            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                     | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 2)                                          | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Toán kỹ thuật                                                 | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Vật lý 2 và Thí nghiệm                                        | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Cấu kiện điện tử                                              | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Cơ sở đo lường điện tử                                        | 2            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                                          | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh (Course 3)                                          | 4            | Bổ trợ ngành              |
+| Học kỳ 4 | Pháp luật đại cương                                           | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Xử lý tín hiệu số                                             | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử số                                                    | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Điện tử tương tự                                              | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Lý thuyết mạch                                                | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng cộng sản VN                                      | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                                     | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Lý thuyết thông tin                                           | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Cấu trúc dữ liệu và giải thuật                                | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kiến trúc máy tính                                            | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Lý thuyết trường điện từ và siêu cao tần                      | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Cơ sở điều khiển tự động                                      | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------+--------------+---------------------------+ 
+| Học kỳ 6 | Thực hành cơ sở                                               | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Điện tử công suất                                             | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Kỹ thuật vi xử lý                                             | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Mạng máy tính                                                 | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Truyền thông số                                               | 2            | Chuyên ngành              |
+| Học kỳ 6 | Thiết kế logic số                                             | 3            | Chuyên ngành              |
+| Học kỳ 6 | Đồ án thiết kế mạch điện tử                                   | 2            | Chuyên ngành              |
++----------+---------------------------------------------------------------+--------------+---------------------------+ 
+| Học kỳ 7 | Phương pháp luận NCKH                                         | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 7 | CAD/CAM                                                       | 2            | Chuyên ngành              |
+| Học kỳ 7 | Hệ thống nhúng                                                | 3            | Chuyên ngành              |
+| Học kỳ 7 | Thiết kế hệ thống VLSI                                        | 2            | Chuyên ngành              |
+| Học kỳ 7 | Thiết kế vi mạch số                                           | 3            | Chuyên ngành              |
+| Học kỳ 7 | Đồ án Thiết kế hệ thống số                                    | 2            | Chuyên ngành              |
+| Học kỳ 7 | Học phần tự chọn                                              | 2            | Chuyên ngành              |
++----------+---------------------------------------------------------------+--------------+---------------------------+ 
+| Học kỳ 8 | Thiết kế vi mạch tương tự                                     | 3            | Chuyên ngành              |
+| Học kỳ 8 | Chuyên đề công nghệ bán dẫn                                   | 2            | Chuyên ngành              |
+| Học kỳ 8 | Thực hành chuyên sâu                                          | 3            | Chuyên ngành              |
+| Học kỳ 8 | Học phần tự chọn                                              | 8            | Chuyên ngành              |
+| Học kỳ 9 | Thực tập và tốt nghiệp                                        | 12           | Luận văn tốt nghiệp       |
++----------+---------------------------------------------------------------+--------------+---------------------------+
+
+
 Nghề nghiệp
 Sinh viên sau khi tốt nghiệp ngành Công nghệ Kỹ thuật Điện-Điện tử phù hợp với các vị trí việc làm sau:
 - Kỹ sư thiết kế, cán bộ kỹ thuật, cán bộ điều hành tại các trung tâm nghiên cứu phát triển, các khu công nghiệp, nhà máy chế tạo các sản phẩm điện tử.

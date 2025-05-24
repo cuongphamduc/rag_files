@@ -184,4 +184,3 @@ Quy trình nhập học
 
 date: None
 headings: ['Ngành Trí tuệ nhân tạo', 'Tổng quan', 'Chuẩn đầu ra', 'Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )', 'Các học phần tự chọn', 'Các học phần tự chọn', 'Các học phần tự chọn', 'Các học phần tự chọn', 'Nghề nghiệp', 'Học phí', 'Điều kiện tuyển sinh', 'Quy trình nhập học', 'Tài liệu đào tạo']
-Đang hiển thị 7995217239865495778.

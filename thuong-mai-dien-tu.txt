@@ -53,112 +53,69 @@ LO15. Sử dụng công nghệ thông tin trong công việc.
 LO16. Có phẩm chất đạo đức: sẵn sàng đương đầu với khó khăn và chấp nhận rủi ro; ứng xử độc lập, chuyên nghiệp và có trách nhiệm với xã hội, tôn trọng pháp luật;
 LO17. Nhận biết và phân tích môi trường hoạt động nghề nghiệp trong và ngoài tổ chức, doanh nghiệp;
 LO18. Phát triển nghề nghiệp, ham mê nghiên cứu và học tập suốt đời.
+
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Thương mại điện tử
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Tâm lý quản lý
-2 tín chỉ
-Tin học cơ sở 1
-2 tín chỉ
-Toán cao cấp 1
-2 tín chỉ
-Pháp luật đại cương
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh (Course 1)
-2 tín chỉ
-Toán cao cấp 2
-3 tín chỉ
-Lý thuyết xác suất và thống kê
-2 tín chỉ
-Tin học cơ sở 3
-2 tín chỉ
-Phương pháp luận NCKH
-3 tín chỉ
-Kinh tế vi mô 1
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-4 tín chỉ
-Tiếng Anh (Course 2)
-3 tín chỉ
-Toán kinh tế
-3 tín chỉ
-Kinh tế vĩ mô 1
-3 tín chỉ
-Nhập môn kinh doanh
-3 tín chỉ
-Nguyên lý lập trình (BU)
-Học kỳ 4
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-4 tín chỉ
-Tiếng Anh (Course 3)
-3 tín chỉ
-Thương mại điện tử căn bản
-3 tín chỉ
-Quản trị học
-2 tín chỉ
-Nhập môn cơ sở dữ liệu (BU)
-2 tín chỉ
-Marketing căn bản
-Học kỳ 5
-2 tín chỉ
-Lịch sử Đảng cộng sản VN
-2 tín chỉ
-Tiếng Anh (Course 3 Plus)
-3 tín chỉ
-Quản trị sản xuất
-3 tín chỉ
-Thống kê doanh nghiệp
-2 tín chỉ
-Logicstics căn bản
-3 tín chỉ
-Hệ quản trị CSDL (BU)
-3 tín chỉ
-Kế toán cho kinh doanh
-Học kỳ 6
-3 tín chỉ
-Thiết kế và triển khai website TMĐT
-2 tín chỉ
-Quản trị và bán hàng phân phối SP
-3 tín chỉ
-Kinh doanh quốc tế
-3 tín chỉ
-Quản trị chiến lược
-3 tín chỉ
-Khởi nghiệp Đổi mới sáng tạo
-Học kỳ 7
-2 tín chỉ
-Phân tích dữ liệu phục vụ cho kinh doanh
-2 tín chỉ
-Chính phủ điện tử
-3 tín chỉ
-Bán lẻ trực tuyến
-2 tín chỉ
-Chuyên đề Quản trị TMĐT
-2 tín chỉ
-Chuyên đề tác nghiệp TMĐT
-2 tín chỉ
-E-Marketing
-2 tín chỉ
-An toàn HTTT kinh doanh
-Học kỳ 8
-10 tín chỉ
-Thực tập và tốt nghiệp (hoặc các học phần thay thế tốt nghiệp)
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                                 | Số tín chỉ   | Loại học phần             |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                                      | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tâm lý quản lý                                                           | 2            | Cơ sở ngành               |
+| Học kỳ 1 | Tin học cơ sở 1                                                          | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Toán cao cấp 1                                                           | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Pháp luật đại cương                                                      | 2            | Bắt buộc chung            |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                              | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 1)                                                     | 4            | Bổ trợ ngành              |
+| Học kỳ 2 | Toán cao cấp 2                                                           | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Lý thuyết xác suất và thống kê                                           | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tin học cơ sở 3                                                          | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Phương pháp luận NCKH                                                   | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Kinh tế vi mô 1                                                          | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                                | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 2)                                                     | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Toán kinh tế                                                             | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Kinh tế vĩ mô 1                                                          | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Nhập môn kinh doanh                                                      | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Nguyên lý lập trình (BU)                                                 | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                                                     | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh (Course 3)                                                     | 4            | Bổ trợ ngành              |
+| Học kỳ 4 | Thương mại điện tử căn bản                                               | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Quản trị học                                                             | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Nhập môn cơ sở dữ liệu (BU)                                              | 2            | Cơ sở ngành               |
+| Học kỳ 4 | Marketing căn bản                                                        | 2            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng Cộng sản VN                                                 | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                                                | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Quản trị sản xuất                                                        | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Thống kê doanh nghiệp                                                    | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Logistics căn bản                                                        | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Hệ quản trị CSDL (BU)                                                    | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kế toán cho kinh doanh                                                   | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Thiết kế và triển khai website TMĐT                                     | 2            | Chuyên ngành              |
+| Học kỳ 6 | Quản trị và bán hàng phân phối SP                                       | 2            | Chuyên ngành              |
+| Học kỳ 6 | Kinh doanh quốc tế                                                       | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Quản trị chiến lược                                                     | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Khởi nghiệp Đổi mới sáng tạo                                            | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Phân tích dữ liệu phục vụ cho kinh doanh                                | 3            | Cơ sở ngành               |
+| Học kỳ 7 | Chính phủ điện tử                                                       | 2            | Cơ sở ngành               |
+| Học kỳ 7 | Bán lẻ trực tuyến                                                       | 3            | Cơ sở ngành               |
+| Học kỳ 7 | Chuyên đề Quản trị TMĐT                                                | 2            | Chuyên ngành              |
+| Học kỳ 7 | Chuyên đề tác nghiệp TMĐT                                              | 2            | Chuyên ngành              |
+| Học kỳ 7 | E-Marketing                                                             | 2            | Chuyên ngành              |
+| Học kỳ 7 | An toàn HTTT kinh doanh                                                 | 2            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp (hoặc các học phần thay thế tốt nghiệp)          | 10           | Luận văn tốt nghiệp       |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+
+
+
 Nghề nghiệp
 Sau khi tốt nghiệp sinh viên có đủ năng lực để đảm nhận các vị trí công việc sau:
 - Tại các doanh nghiệp kinh doanh điện tử / doanh nghiệp sở hữu website TMĐT bán hàng: chuyên viên hoặc quản lý hoạt động cung ứng điện tử, bán hàng trực tuyến, marketing điện tử, logistics điện tử, thanh toán điện tử, quản trị quan hệ khách hàng, quản trị và vận hành hệ thống bán hàng đa kênh, xây dựng và phát triển hệ thống TMĐT của doanh nghiệp.

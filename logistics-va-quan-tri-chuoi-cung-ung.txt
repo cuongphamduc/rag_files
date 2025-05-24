@@ -31,120 +31,74 @@ PLO5: Giao tiếp hiệu quả trong bối cảnh khác nhau;
 PLO6: Hợp tác hiệu quả trong nhóm và môi trường đa văn hóa;
 
 PLO7: Nhận thức được vấn đề đạo đức và trách nhiệm nghề nghiệp trong lĩnh vực quản trị kinh doanh logistics và quản lý chuỗi cung ứng
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Logistics và quản trị chuỗi cung ứng
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Tin học cơ sở 1
-2 tín chỉ
-Toán cao cấp 1
-2 tín chỉ
-Pháp luật đại cương
-3 tín chỉ
-Kinh tế vi mô 1
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh (Course 1)
-2 tín chỉ
-Tin học cơ sở 3
-2 tín chỉ
-Toán cao cấp 2
-3 tín chỉ
-Lý thuyết xác suất và thống kê
-3 tín chỉ
-Kinh tế vĩ mô 1
-3 tín chỉ
-Nguyên lý cơ bản về logistics và quản lý chuỗi cung ứng
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-4 tín chỉ
-Tiếng Anh (Course 2)
-3 tín chỉ
-Toán kinh tế
-3 tín chỉ
-Quản trị học
-3 tín chỉ
-Nguyên lý thống kê kinh tế
-3 tín chỉ
-Quản trị chuỗi cung ứng
-Học kỳ 4
-2 tín chỉ
-Lịch sử Đảng cộng sản Việt Nam
-2 tín chỉ
-Tiếng Anh (Course 3)
-3 tín chỉ
-Kế toán cho kinh doanh
-3 tín chỉ
-Marketing căn bản
-3 tín chỉ
-Thương mại điện tử căn bản
-2 tín chỉ
-Hệ thống thông tin logistics
-2 tín chỉ
-Chuyên đề 1
-Học kỳ 5
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-2 tín chỉ
-Tiếng Anh (Course 3 Plus)
-3 tín chỉ
-Kinh doanh quốc tế
-3 tín chỉ
-Kinh tế lượng
-3 tín chỉ
-Học phần lựa chọn 1
-3 tín chỉ
-Học phần lựa chọn 2
-3 tín chỉ
-Học phần lựa chọn 3
-Học kỳ 6
-2 tín chỉ
-Tâm lý quản lý
-2 tín chỉ
-Quản trị mua và nguồn cung ứng
-2 tín chỉ
-Logistics trong thương mại điện tử
-2 tín chỉ
-Quản lý kho và trung tâm phân phối
-2 tín chỉ
-Nghiệp vụ hải quan
-3 tín chỉ
-Giao nhận, vận tải và bảo hiểm hàng hóa
-3 tín chỉ
-Pháp luật trong kinh doanh và thương mại quốc tế
-3 tín chỉ
-Quản trị chiến lược
-3 tín chỉ
-Lựa chọn kỹ năng mềm 3
-Học kỳ 7
-3 tín chỉ
-Nghiệp vụ kinh doanh xuất nhập khẩu
-3 tín chỉ
-Quản trị vận hành và chuỗi cung ứng
-2 tín chỉ
-Chuyên đề 2
-2 tín chỉ
-Phương pháp luận nghiên cứu khoa học
-6 tín chỉ
-Học phần tự chọn
-Học kỳ 8
-4 tín chỉ
-Thực tập tốt nghiệp
-6 tín chỉ
-Khóa luận tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                            | Số tín chỉ   | Loại học phần             |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                                 | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Tin học cơ sở 1                                                     | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Toán cao cấp 1                                                      | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Pháp luật đại cương                                                 | 2            | Bắt buộc chung            |
+| Học kỳ 1 | Kinh tế vi mô 1                                                     | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                         | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh (Course 1)                                                | 4            | Bổ trợ ngành              |
+| Học kỳ 2 | Tin học cơ sở 3                                                     | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Toán cao cấp 2                                                      | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Lý thuyết xác suất và thống kê                                      | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Kinh tế vĩ mô 1                                                     | 3            | Cơ sở ngành               |
+| Học kỳ 2 | Nguyên lý cơ bản về logistics và quản lý chuỗi cung ứng            | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                           | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh (Course 2)                                                | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Toán kinh tế                                                        | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Quản trị học                                                        | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Nguyên lý thống kê kinh tế                                          | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Quản trị chuỗi cung ứng                                             | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Lịch sử Đảng Cộng sản Việt Nam                                      | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh (Course 3)                                                | 2            | Bổ trợ ngành              |
+| Học kỳ 4 | Kế toán cho kinh doanh                                              | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Marketing căn bản                                                   | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Thương mại điện tử căn bản                                          | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Hệ thống thông tin logistics                                        | 2            | Cơ sở ngành               |
+| Học kỳ 4 | Chuyên đề 1                                                         | 2            | Chuyên ngành              |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Tư tưởng Hồ Chí Minh                                                | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh (Course 3 Plus)                                           | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Kinh doanh quốc tế                                                  | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Kinh tế lượng                                                       | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Học phần lựa chọn 1                                                 | 3            | Chuyên ngành              |
+| Học kỳ 5 | Học phần lựa chọn 2                                                 | 3            | Chuyên ngành              |
+| Học kỳ 5 | Học phần lựa chọn 3                                                 | 3            | Chuyên ngành              |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Tâm lý quản lý                                                       | 2            | Cơ sở ngành               |
+| Học kỳ 6 | Quản trị mua và nguồn cung ứng                                      | 3            | Chuyên ngành              |
+| Học kỳ 6 | Logistics trong thương mại điện tử                                  | 2            | Chuyên ngành              |
+| Học kỳ 6 | Quản lý kho và trung tâm phân phối                                  | 2            | Chuyên ngành              |
+| Học kỳ 6 | Nghiệp vụ hải quan                                                  | 2            | Cơ sở ngành               |
+| Học kỳ 6 | Giao nhận, vận tải và bảo hiểm hàng hóa                             | 3            | Chuyên ngành              |
+| Học kỳ 6 | Pháp luật trong kinh doanh và thương mại quốc tế                    | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Quản trị chiến lược                                                 | 3            | Cơ sở ngành               |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Lựa chọn kỹ năng mềm 3                                              | 2            | Bổ trợ ngành              |
+| Học kỳ 7 | Nghiệp vụ kinh doanh xuất nhập khẩu                                | 3            | Chuyên ngành              |
+| Học kỳ 7 | Quản trị vận hành và chuỗi cung ứng                                 | 3            | Chuyên ngành              |
+| Học kỳ 7 | Chuyên đề 2                                                         | 2            | Chuyên ngành              |
+| Học kỳ 7 | Phương pháp luận nghiên cứu khoa học                               | 2            | Bắt buộc chung            |
+| Học kỳ 7 | Học phần tự chọn                                                    | 6            | Chuyên ngành              |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập tốt nghiệp                                                 | 6            | Thực tập                  |
+| Học kỳ 8 | Khóa luận tốt nghiệp                                                | 6            | Luận văn tốt nghiệp       |
++----------+---------------------------------------------------------------------+--------------+---------------------------+
+
+
+
+
+
 Nghề nghiệp
 Cử nhân Logistics và quản trị chuỗi cung ứng có thể làm việc tại:
 

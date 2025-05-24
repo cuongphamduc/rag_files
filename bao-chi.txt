@@ -79,112 +79,68 @@ LO19: Có phẩm chất đạo đức, ý thức nghề nghiệp, trách nhiệm
 LO20: Có khả năng thích nghi, tự học và tích lũy kinh nghiệm để nâng cao trình độ chuyên môn nghiệp vụ; Chủ động và hợp tác trong công việc;
 LO21: Có sáng kiến và giải quyết tình huống trong quá trình thực hiện nhiệm vụ được giao; Có khả năng đưa ra những kết luận về các vấn đề nghiệp vụ và kĩ thuật phức tạp về báo chí và nội dung thông tin;
 LO22: Có năng lực lập kế hoạch, điều phối, phát huy trí tuệ tập thể và đánh giá, cải tiến các hoạt động chuyên môn.
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Báo chí số
-Học kỳ 1
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Cơ sở văn hóa Việt Nam
-2 tín chỉ
-Tin học cơ sở 1
-2 tín chỉ
-CS lý luận báo chí truyền thông
-2 tín chỉ
-Phương pháp luận NCKH
-Học kỳ 2
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-4 tín chỉ
-Tiếng Anh Course 1
-3 tín chỉ
-Tin học cơ sở 3
-2 tín chỉ
-Logic học đại cương
-2 tín chỉ
-Tâm lý học báo chí
-2 tín chỉ
-Tiếng Việt thực hành
-2 tín chỉ
-Mỹ thuật đại cương
-2 tín chỉ
-Văn hóa và TT đại chúng
-Học kỳ 3
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-4 tín chỉ
-Tiếng Anh Course 2
-3 tín chỉ
-Các loại hình báo chí
-2 tín chỉ
-Nhập môn Thiết kế và sáng tạo trong BC
-3 tín chỉ
-Nhiếp ảnh Báo chí
-2 tín chỉ
-Nhập môn Công nghệ báo chí số
-3 tín chỉ
-Pháp luật, Đạo đức và Lao động BC
-Học kỳ 4
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-4 tín chỉ
-Tiếng Anh Course 3
-3 tín chỉ
-Thiết kế đồ họa báo chí
-3 tín chỉ
-Ngôn ngữ BC và sáng tạo tác phẩm BC
-4 tín chỉ
-KT quay và áp dụng video
-2 tín chỉ
-Kịch bản cho tác phẩm BC số
-Học kỳ 5
-2 tín chỉ
-Lịch sử Đảng Cộng sản Việt Nam
-2 tín chỉ
-Tiếng Anh Course 3 Plus
-2 tín chỉ
-Kinh tế báo chí
-3 tín chỉ
-Thương hiệu và xây dựng thương hiệu trong BC
-3 tín chỉ
-Công cụ xử lý ứng dụng trong BC số
-2 tín chỉ
-Báo chí dữ liệu
-3 tín chỉ
-Nghệ thuật chữ và nguyên tắc ứng dụng trên các nền tảng PP
-2 tín chỉ
-BC và phương tiện TT xã hội
-Học kỳ 6
-3 tín chỉ
-Internet và công nghệ web
-3 tín chỉ
-Viết chuyên nghiệp
-3 tín chỉ
-Thiết kế minh họa trong BC số
-3 tín chỉ
-Thu thập và xử lý dữ liệu BC số
-Học kỳ 7
-2 tín chỉ
-Dẫn chương trình
-2 tín chỉ
-Báo chí và dư luận xã hội
-2 tín chỉ
-Vận hành tòa soạn BC số
-3 tín chỉ
-Công nghệ AI trong phân tích dữ liệu BC số
-2 tín chỉ
-Báo chí đương đại
-Học kỳ 8
-10 tín chỉ
-Thực tập và tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
+
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                                 | Số tín chỉ   | Loại học phần             |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Triết học Mác-Lênin                                                      | 3            | Bắt buộc chung            |
+| Học kỳ 1 | Cơ sở văn hóa Việt Nam                                                   | 2            | Bổ trợ ngành              |
+| Học kỳ 1 | Tin học cơ sở 1                                                          | 2            | Cơ sở ngành               |
+| Học kỳ 1 | CS lý luận báo chí truyền thông                                          | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Phương pháp luận NCKH                                                    | 2            | Bắt buộc chung            |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Kinh tế chính trị Mác-Lênin                                              | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tiếng Anh Course 1                                                       | 4            | Bổ trợ ngành              |
+| Học kỳ 2 | Tin học cơ sở 3                                                          | 3            | Cơ sở ngành               |
+| Học kỳ 2 | Logic học đại cương                                                      | 2            | Bắt buộc chung            |
+| Học kỳ 2 | Tâm lý học báo chí                                                       | 2            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tiếng Việt thực hành                                                     | 2            | Bổ trợ ngành              |
+| Học kỳ 2 | Mỹ thuật đại cương                                                       | 2            | Bổ trợ ngành              |
+| Học kỳ 2 | Văn hóa và TT đại chúng                                                  | 2            | Giáo dục chuyên nghiệp    |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Chủ nghĩa xã hội khoa học                                                | 2            | Bắt buộc chung            |
+| Học kỳ 3 | Tiếng Anh Course 2                                                       | 4            | Bổ trợ ngành              |
+| Học kỳ 3 | Các loại hình báo chí                                                    | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Nhập môn Thiết kế và sáng tạo trong BC                                   | 2            | Cơ sở ngành               |
+| Học kỳ 3 | Nhiếp ảnh Báo chí                                                        | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Nhập môn Công nghệ báo chí số                                            | 2            | Cơ sở ngành               |
+| Học kỳ 3 | Pháp luật, Đạo đức và Lao động BC                                        | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Tư tưởng Hồ Chí Minh                                                     | 2            | Bắt buộc chung            |
+| Học kỳ 4 | Tiếng Anh Course 3                                                       | 4            | Bổ trợ ngành              |
+| Học kỳ 4 | Thiết kế đồ họa báo chí                                                  | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Ngôn ngữ BC và sáng tạo tác phẩm BC                                      | 3            | Chuyên ngành              |
+| Học kỳ 4 | KT quay và áp dụng video                                                 | 4            | Cơ sở ngành               |
+| Học kỳ 4 | Kịch bản cho tác phẩm BC số                                              | 2            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Lịch sử Đảng Cộng sản Việt Nam                                           | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Tiếng Anh Course 3 Plus                                                  | 2            | Bổ trợ ngành              |
+| Học kỳ 5 | Kinh tế báo chí                                                          | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Thương hiệu và xây dựng thương hiệu trong BC                             | 3            | Chuyên ngành              |
+| Học kỳ 5 | Công cụ xử lý ứng dụng trong BC số                                       | 3            | Chuyên ngành              |
+| Học kỳ 5 | Báo chí dữ liệu                                                          | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Nghệ thuật chữ và nguyên tắc ứng dụng trên các nền tảng PP               | 3            | Cơ sở ngành               |
+| Học kỳ 5 | BC và phương tiện TT xã hội                                              | 2            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Internet và công nghệ web                                                | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Viết chuyên nghiệp                                                       | 3            | Cơ sở ngành               |
+| Học kỳ 6 | Thiết kế minh họa trong BC số                                            | 3            | Chuyên ngành              |
+| Học kỳ 6 | Thu thập và xử lý dữ liệu BC số                                          | 3            | Chuyên ngành              |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Dẫn chương trình                                                         | 2            | Chuyên ngành              |
+| Học kỳ 7 | Báo chí và dư luận xã hội                                                | 2            | Chuyên ngành              |
+| Học kỳ 7 | Vận hành tòa soạn BC số                                                  | 2            | Chuyên ngành              |
+| Học kỳ 7 | Công nghệ AI trong phân tích dữ liệu BC số                               | 3            | Chuyên ngành              |
+| Học kỳ 7 | Báo chí đương đại                                                        | 3            | Cơ sở ngành               |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp                                                   | 10           | Thực tập                  |
++----------+--------------------------------------------------------------------------+--------------+---------------------------+
+
+
 Nghề nghiệp
 Sau khi tốt nghiệp ngành Báo chí, sinh viên có đủ năng lực để đảm nhận các vị trí công việc ở các nhóm sau:
 

@@ -60,108 +60,66 @@ Chuẩn đầu ra
 [LO28] Có khả năng chủ động trong xử lý, giải quyết công việc, nhiệm vụ được giao
 [LO29] Ý thức được sự cần thiết phải thường xuyên học tập nâng cao trình độ, có năng lực chuyên môn và khả năng ngoại ngữ để tự học suốt đời
 [LO30] Hiểu rõ về các giá trị đạo đức và trách nhiệm nghề nghiệp
+
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Marketing hệ CLC
-Học kỳ 1
-3 tín chỉ
-Nguyên lý Marketing
-4 tín chỉ
-Toán cao cấp cho kinh tế
-8 tín chỉ
-Tiếng Anh (Course 1)_CLC
-3 tín chỉ
-Kinh tế vi mô
-Học kỳ 2
-3 tín chỉ
-Xác xuất và thống kê trong kinh tế
-3 tín chỉ
-Tin học cơ sở (theo chuẩn quốc tế)
-8 tín chỉ
-Tiếng Anh (Course 2)_CLC
-3 tín chỉ
-Kinh tế vĩ mô
-Học kỳ 3
-8 tín chỉ
-Tiếng Anh (Course 3)_CLC
-3 tín chỉ
-Kinh tế lượng
-3 tín chỉ
-Kế toán quản trị phục vụ cho việc ra quyết định
-3 tín chỉ
-Hành vi người tiêu dùng
-3 tín chỉ
-Triết học Mác Lênin
-Học kỳ 4
-3 tín chỉ
-Triết học Mác lê nin
-2 tín chỉ
-Quản trị tổ chức
-3 tín chỉ
-Marketing chiến lược
-3 tín chỉ
-Nghiên cứu marketing
-3 tín chỉ
-Hệ thống thông tin trong kinh doanh
-3 tín chỉ
-Truyền thông Marketing tích hợp
-2 tín chỉ
-Pháp luật đại cương
-Học kỳ 5
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-2 tín chỉ
-Quản trị bán hàng
-3 tín chỉ
-Đạo đức Marketing
-2 tín chỉ
-Marketing dịch vụ
-2 tín chỉ
-Học phần lựa chọn 1 (*)
-2 tín chỉ
-Học phần lựa chọn 2 (*)
-2 tín chỉ
-Học phần lựa chọn 3 (*)
-Học kỳ 6
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-3 tín chỉ
-Marketing số
-2 tín chỉ
-Quản trị thương hiệu
-2 tín chỉ
-Thiết kế UI/UX
-3 tín chỉ
-Sáng tạo và phát triển nội dung số
-3 tín chỉ
-Công nghệ Marketing số
-3 tín chỉ
-Phân tích Marketing
-Học kỳ 7
-2 tín chỉ
-Lịch sử Đảng cộng sản Việt Nam
-2 tín chỉ
-Chuyên đề: Xu hướng công nghệ marketing số
-2 tín chỉ
-Đề án Kế hoạch Internet marketing
-3 tín chỉ
-Marketing qua phương tiện truyền thông xã hội
-3 tín chỉ
-Phát triển sản phẩm mới và cải tiến
-3 tín chỉ
-Học phần lựa chọn 1 (**)
-3 tín chỉ
-Học phần lựa chọn 2 (**)
-Học kỳ 8
-10 tín chỉ
-Thực tập và tốt nghiệp hoặc học phần thay thế tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ   | Học phần                                                               | Số tín chỉ   | Loại học phần             |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 1 | Nguyên lý Marketing                                                    | 3            | Cơ sở ngành               |
+| Học kỳ 1 | Toán cao cấp cho kinh tế                                               | 4            | Bắt buộc chung nhóm ngành |
+| Học kỳ 1 | Tiếng Anh (Course 1)_CLC                                               | 8            | Bổ trợ ngành              |
+| Học kỳ 1 | Kinh tế vi mô                                                          | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 2 | Xác suất và thống kê trong kinh tế                                     | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tin học cơ sở (theo chuẩn quốc tế)                                     | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 2 | Tiếng Anh (Course 2)_CLC                                               | 8            | Bổ trợ ngành              |
+| Học kỳ 2 | Kinh tế vĩ mô                                                          | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 3 | Tiếng Anh (Course 3)_CLC                                               | 8            | Bổ trợ ngành              |
+| Học kỳ 3 | Kinh tế lượng                                                          | 3            | Bắt buộc chung nhóm ngành |
+| Học kỳ 3 | Kế toán quản trị phục vụ cho việc ra quyết định                       | 3            | Cơ sở ngành               |
+| Học kỳ 3 | Hành vi người tiêu dùng                                                | 3            | Cơ sở ngành               |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 4 | Triết học Mác Lênin                                                    | 3            | Bắt buộc chung            |
+| Học kỳ 4 | Quản trị tổ chức                                                       | 2            | Cơ sở ngành               |
+| Học kỳ 4 | Marketing chiến lược                                                   | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Nghiên cứu marketing                                                   | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Hệ thống thông tin trong kinh doanh                                    | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Truyền thông Marketing tích hợp                                        | 3            | Cơ sở ngành               |
+| Học kỳ 4 | Pháp luật đại cương                                                    | 2            | Bắt buộc chung            |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 5 | Chủ nghĩa xã hội khoa học                                              | 2            | Bắt buộc chung            |
+| Học kỳ 5 | Quản trị bán hàng                                                      | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Đạo đức Marketing                                                      | 3            | Cơ sở ngành               |
+| Học kỳ 5 | Marketing dịch vụ                                                      | 2            | Cơ sở ngành               |
+| Học kỳ 5 | Học phần lựa chọn 1 (*)                                                | 2            | Chuyên ngành              |
+| Học kỳ 5 | Học phần lựa chọn 2 (*)                                                | 2            | Chuyên ngành              |
+| Học kỳ 5 | Học phần lựa chọn 3 (*)                                                | 2            | Chuyên ngành              |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 6 | Tư tưởng Hồ Chí Minh                                                   | 2            | Bắt buộc chung            |
+| Học kỳ 6 | Marketing số                                                           | 3            | Chuyên ngành              |
+| Học kỳ 6 | Quản trị thương hiệu                                                  | 2            | Chuyên ngành              |
+| Học kỳ 6 | Thiết kế UI/UX                                                         | 2            | Chuyên ngành              |
+| Học kỳ 6 | Sáng tạo và phát triển nội dung số                                     | 3            | Chuyên ngành              |
+| Học kỳ 6 | Công nghệ Marketing số                                                 | 3            | Chuyên ngành              |
+| Học kỳ 6 | Phân tích Marketing                                                    | 3            | Chuyên ngành              |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 7 | Lịch sử Đảng Cộng sản Việt Nam                                         | 2            | Bắt buộc chung            |
+| Học kỳ 7 | Chuyên đề: Xu hướng công nghệ marketing số                             | 2            | Chuyên ngành              |
+| Học kỳ 7 | Đề án Kế hoạch Internet marketing                                      | 2            | Chuyên ngành              |
+| Học kỳ 7 | Marketing qua phương tiện truyền thông xã hội                          | 3            | Chuyên ngành              |
+| Học kỳ 7 | Phát triển sản phẩm mới và cải tiến                                    | 3            | Chuyên ngành              |
+| Học kỳ 7 | Học phần lựa chọn 1 (**)                                               | 3            | Chuyên ngành              |
+| Học kỳ 7 | Học phần lựa chọn 2 (**)                                               | 3            | Chuyên ngành              |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+| Học kỳ 8 | Thực tập và tốt nghiệp hoặc học phần thay thế tốt nghiệp               | 10           | Luận văn tốt nghiệp       |
++----------+------------------------------------------------------------------------+--------------+---------------------------+
+
+
+
+
 Nghề nghiệp
 Được trang bị nhưng kiến thức, kỹ năng nền tảng vững chắc, hiện đại và thực tiễn trong chương trình chất lượng cao về digital marketing của Học viện Công nghệ Bưu chính Viễn thông, sau khi tốt nghiệp, sinh viên sẽ có nhiều cơ hội việc làm hấp dẫn cũng như có những cơ hội thăng tiến, từ nhân viên đến các chức danh quản trị trung gian và cấp cao trong lĩnh vực digital marketing trong doanh nghiệp, tổ chức, cơ quan. Ngoài ra, sau khi hoàn thành chương trình học, sinh viên có thể có nhiều cơ hội việc làm trong các công ty cung cấp dịch vụ marketing/marketing số cũng như cơ hội học tập nâng cao hơn hoặc làm việc trong môi trường giảng dạy, nghiên cứu…
 Các vị trí việc làm trong các doanh nghiệp hoặc các tổ chức, cơ quan (Job and career opportunites in businesses and organizations)
