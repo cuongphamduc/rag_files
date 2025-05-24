@@ -1,0 +1,279 @@
+url: https://tuyensinh.ptit.edu.vn/
+content: 
+
+
+TUYỂN SINH HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+Đăng ký xét tuyển trực tuyến: https://xettuyen.ptit.edu.vn/user/login
+Nộp hồ sơ trực tuyến để không bỏ lỡ bất kỳ cơ hội nào trở thành sinh viên của PTIT
+
+
+Chỉ tiêu tuyển sinh
+Cơ sở đào tạo phía Bắc (Km10, Nguyễn Trãi, Quận Hà Đông, Hà Nội)
+Cơ sở đào tạo phía Nam (11 Nguyễn Đình Chiểu, Quận 1, TP.Hồ Chí Minh)
+
+Công nghệ thông tin (cử nhân, định hướng ứng dụng)
+Mã ngành: 7480201_UDU
+
+Chỉ tiêu tuyển sinh năm 2025: 300 chỉ tiêu
+
+Ngành Kỹ thuật Điện tử viễn thông
+Mã ngành: 7520207
+
+Chỉ tiêu tuyển sinh năm 2025: 430 chỉ tiêu
+
+Ngành An toàn thông tin
+Mã ngành: 7480202
+
+Chỉ tiêu tuyển sinh năm 2025: 200 chỉ tiêu
+
+Ngành Công nghệ kỹ thuật Điện, điện tử
+Mã ngành: 7510301
+
+Chỉ tiêu tuyển sinh năm 2025: 230 chỉ tiêu
+
+Ngành Công nghệ đa phương tiện
+Mã ngành: 7329001
+
+Chỉ tiêu tuyển sinh năm 2025: 260 chỉ tiêu
+
+Ngành Truyền thông đa phương tiện
+Mã ngành: 7320104
+
+Chỉ tiêu tuyển sinh năm 2025: 120 chỉ tiêu
+
+Ngành Marketing
+Mã ngành: 7340115
+
+Chỉ tiêu tuyển sinh năm 2025: 240 chỉ tiêu
+
+Ngành Quản trị kinh doanh
+Mã ngành: 7340101
+
+Chỉ tiêu tuyển sinh năm 2025: 200 chỉ tiêu
+
+Ngành Công nghệ thông tin
+Mã ngành: 7480201
+
+Chỉ tiêu tuyển sinh năm 2025: 600 chỉ tiêu
+
+Ngành Kế toán
+Mã ngành: 7340301
+
+Chỉ tiêu tuyển sinh năm 2025: 180 chỉ tiêu
+
+Ngành Thương mại điện tử
+Mã ngành: 7340122
+
+Chỉ tiêu tuyển sinh năm 2025: 170 chỉ tiêu
+
+Ngành Công nghệ tài chính Fintech
+Mã ngành: 7340205
+
+Chỉ tiêu tuyển sinh năm 2025: 150 chỉ tiêu
+
+Ngành Kỹ thuật Điều khiển và Tự động hoá
+Mã ngành: 7520216
+
+Chỉ tiêu tuyển sinh năm 2025: 110 chỉ tiêu
+
+Ngành Khoa học máy tính (định hướng Khoa học dữ liệu)
+Mã ngành: 7480101
+
+Chỉ tiêu tuyển sinh năm 2025: 150 chỉ tiêu
+
+Ngành Báo chí
+Mã ngành: 7320101
+
+Chỉ tiêu tuyển sinh năm 2025: 90 chỉ tiêu
+
+Công nghệ thông tin (chất lượng cao)
+Mã ngành: 7480201_CLC
+
+Chỉ tiêu tuyển sinh năm 2025: 300 chỉ tiêu
+
+Mạng máy tính và truyền thông dữ liệu (CT Kỹ thuật dữ liệu)
+Mã ngành: 7480102
+
+Chỉ tiêu tuyển sinh năm 2025: 120 chỉ tiêu
+
+Marketing Chương trình CLC
+Mã ngành: 7340115_CLC
+
+Chỉ tiêu tuyển sinh năm 2025: 120 chỉ tiêu
+
+Kế toán chuẩn quốc tế ACCA
+Mã ngành: 7340301_CLC
+
+Chỉ tiêu tuyển sinh năm 2025: 60 chỉ tiêu
+
+Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện)
+Mã ngành: 7329001_GAM
+
+Chỉ tiêu tuyển sinh năm 2025: 200 chỉ tiêu
+
+Công nghệ thông tin Việt – Nhật
+Mã ngành: 7480201_VNH
+
+Chỉ tiêu tuyển sinh năm 2025: 100 chỉ tiêu
+
+Quan hệ công chúng (ngành Marketing)
+Mã ngành: 7340115_QHC
+
+Chỉ tiêu tuyển sinh năm 2025: 100 chỉ tiêu
+
+Ngành Trí tuệ nhân tạo
+Mã ngành: 7480107
+
+Chỉ tiêu tuyển sinh năm 2025: 150 chỉ tiêu
+
+Chương trình công nghệ vi mạch bán dẫn
+Mã ngành: 7510301_VM
+
+Chỉ tiêu tuyển sinh năm 2025:  chỉ tiêu
+
+Chương trình Logistics và Quản lý chuỗi cung ứng
+Mã chương trình: 7340101_LG
+
+Chỉ tiêu tuyển sinh năm 2025: 100 chỉ tiêu
+
+Chương trình An toàn thông tin chất lượng cao
+Mã chương trình: 7480202_CLC
+
+Chỉ tiêu tuyển sinh năm 2025: 100 chỉ tiêu
+
+Chương trình Truyền thông đa phương tiện chất lượng cao
+Mã chương trình: 7320104_CLC
+
+Chỉ tiêu tuyển sinh năm 2025: 90 chỉ tiêu
+
+Giới thiệu
+Chương trình học bổng
+
+10/09/2024
+HỌC BỔNG TOÀN PHẦN: https://tuyensinh.ptit.edu.vn/hoc-bong-toan-phan/
+
+10/09/2024
+HỌC BỔNG CHO THÍ SINH ĐẠT THÀNH TÍCH CAO: https://tuyensinh.ptit.edu.vn/hoc-bong-cho-thi-sinh-dat-thanh-tich-cao/
+
+10/09/2024
+HỌC BỔNG ĐẶC BIỆT: https://tuyensinh.ptit.edu.vn/hoc-bong-dac-biet/
+
+Tham gia ngay xét tuyển
+Trở thành 1 thành viên của PTIT, bạn sẽ biết thêm được về
+
+02 cơ sở đào tạo: Hà Nội và Thành phố Hồ Chí Minh
+16 ngành đào tạo đại học đại trà và 02 chương trình Chất lượng cao ngành Công nghệ thông tin với những ngành đào tạo hoàn toàn mới.
+100% miễn học phí đối với các thí sinh tham dự kỳ thi chọn đội tuyển quốc gia dự thi Olympic quốc tế, thí sinh đạt giải Nhất, Nhì, Ba trong kỳ thi chọn học sinh giỏi quốc gia các môn Toán, Lý và Tin học.
+Nộp hồ sơ trực tuyến
+
+HỆ ĐẠI HỌC CHÍNH QUY
+Phương thức xét tuyển
+Phương thức 1 – Xét tuyển tài năng
+Xét tuyển thẳng và ưu tiên xét tuyển: Học viện thực hiện xét tuyển thẳng và ưu tiên xét tuyển theo Quy chế tuyển sinh đại học của Bộ Giáo dục và Đào tạo (có thông báo chi tiết riêng)
+Xét tuyển dựa vào hồ sơ năng lực đối với các thí sinh có Thành tích đoạt giải trong kỳ thi chọn học sinh giỏi THPT cấp quốc gia (giải Khuyến khích), cấp Tỉnh/Thành phố trực thuộc TW (Nhất, Nhì, Ba và Khuyến khích), thời gian đoạt giải không quá 3 năm tính tới thời điểm xét tuyển hoặc là học sinh tại các trường THPT chuyên chuyên hoặc hệ chuyên thuộc các trường THPT trọng điểm quốc gia
+
+Phương thức 2 – Xét tuyển dựa vào kết quả Chứng chỉ đánh giá năng lực quốc tế (Chứng chỉ SAT/ACT)
+Thí sinh đã được công nhận tốt nghiệp trung học phổ thông (THPT) hoặc tương đương và có Chứng chỉ đánh giá năng lực quốc tế SAT từ 1130/1600 trở lên hoặc ACT từ 25/36 trở lên, trong thời hạn 02 năm (tính đến ngày xét tuyển)
+
+Phương thức 3 – Xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hà Nội năm 2025 từ 75 điểm trở lên
+Thí sinh có điểm thi đánh giá năng lực của Đại học quốc gia Hồ Chí Minh năm 2025 từ 600 điểm trở lên
+Thí sinh có điểm thi đánh giá tư duy của Đại học Bách khoa Hà Nội năm 2025 từ 50 điểm trở lên.
+Thí sinh có điểm thi đánh giá năng lực của Trường Đại học Sư phạm Hà Nội (SPT) năm 2025 từ 15 điểm trở lên
+
+Phương thức 4 – Xét tuyển kết hợp
+Thí sinh có Chứng chỉ tiếng Anh quốc tế trong thời hạn (tính đến ngày xét tuyển) đạt IELTS 5.5 trở lên hoặc TOEFL iBT 65 trở lên hoặc TOEFL ITP 513 trở lên và có kết quả điểm trung bình chung học tập lớp 10, 11, 12 đạt từ 7,5 trở lên và có hạnh kiểm Khá trở lên
+
+Phương thức 5 – Phương thức xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2025
+Xét tuyển theo ngành và theo tổ hợp bài thi/môn thi xét tuyển
+Điểm trúng tuyển của các tổ hợp bài thi/môn thi trong cùng một ngành là bằng nhau (không có điểm chênh lệch giữa các tổ hợp trong cùng một ngành)
+Xét trúng tuyển từ thí sinh có kết quả cao xuống và đảm bảo chất lượng tuyển sinh
+Xét tuyển các nguyện vọng bình đẳng (không có điểm chênh lệch giữa các nguyện vọng trong cùng một ngành), nếu thí sinh không trúng tuyển nguyện vọng ở thứ tự ưu tiên thứ nhất (nguyện vọng 1) thì sẽ được tự động xét tuyển ở nguyện vọng ưu tiên thứ hai (nguyện vọng 2) và kế tiếp
+Thí sinh chỉ trúng tuyển vào 1 nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký, khi đã trúng tuyển ở nguyện vọng nào thì không được xét tuyển tiếp ở nguyện vọng sau
+Điểm trúng tuyển được tính theo thang điểm 10 trên tổng điểm tối đa của 3 môn thi trong tổ hợp xét tuyển là 30 điểm
+Đối với các thí sinh bằng điểm xét tuyển ở cuối danh sách, nếu vẫn còn vượt chỉ tiêu thì ưu tiên thí sinh có nguyện vọng cao hơn theo Quy chế tuyển sinh của Bộ Giáo dục & Đào tạo, Học viện không sử dụng tiêu chí phụ riêng để xét tuyển
+Thí sinh trúng tuyển phải xác nhận nhập học trong thời gian quy định của Học viện. Nếu quá thời hạn này, thí sinh không xác nhận nhập học được xem là từ chối nhập học. Các điều kiện khác thực hiện theo Quy chế tuyển sinh đại học hệ chính quy hiện hành của Bộ Giáo dục và Đào tạo và của Học viện.
+
+
+
+Quy trình nộp hồ sơ trực tuyến
+B1: Đăng ký tài khoản
+Đăng ký tài khoản trên hệ thống https://xettuyen.ptit.edu.vn với địa chỉ email hoặc tài khoản Google, Facebook
+
+B2: Khai báo thông tin
+Thí sinh thực hiện khai báo hồ sơ xét tuyển theo Đề án tuyển sinh của Học viện với 3 phương thức xét tuyển: Xét tuyển tài năng, Xét tuyển kết hợp, Xét tuyển dựa vào kết quả bài thi đánh giá năng lực hoặc đánh giá tư duy.
+
+B3: Đăng ký nguyện vọng
+Thí sinh thực hiện đăng ký nguyện vọng xét tuyển trên hệ thống. Mỗi thí sinh được đăng ký tối đa 2 nguyện vọng.
+
+B4: Thanh toán trực tuyến
+Thí sinh thực hiện thanh toán Lệ phí xét tuyển. Thí sinh có thể sử dụng phương thức thanh toán qua Mã định danh hoặc Mã QR.
+
+B5: Nộp hồ sơ về Học viện
+Thí sinh nộp bộ hồ sơ đăng ký xét tuyển về Học viện (bao gồm phiếu đăng ký xét tuyển in từ hệ thống và các giấy tờ cần thiết khác).
+
+B6: Nhận thông tin kết quả
+Thí sinh nhận thông tin kết quả trúng tuyển của Học viện qua địa chỉ email đã đăng ký.
+
+TUYỂN SINH
+Cột mốc tuyển sinh
+1 (1)
+16/7/2025
+THÍ SINH ĐĂNG KÝ, ĐIỀU CHỈNH NGUYỆN VỌNG XÉT TUYỂN
+
+2 (1)
+29/7- 5/8/2025
+NỘP LỆ PHÍ XÉT TUYỂN TRỰC TUYẾN
+
+3 (1)
+22/8/2025
+THÔNG BÁO THÍ SINH TRÚNG TUYỂN ĐỢT 1
+
+4 (1)
+30/8/2025
+HOÀN THÀNH XÁC NHẬN NHẬP HỌC TRỰC TUYẾN ĐỢT 1 TRÊN HỆ THỐNG
+
+
+TUYỂN SINH
+Quy chế - Quy định tuyển sinh
+
+
+Quy chế 1
+Xét tuyển theo ngành và theo tổ hợp môn thi xét tuyển.
+
+Quy chế 2
+Điểm trúng tuyển của các tổ hợp môn thi trong cùng một ngành là bằng nhau.
+
+Quy chế 3
+Xét trúng tuyển từ thí sinh có kết quả cao xuống và đảm bảo chất lượng tuyển sinh.
+
+Quy chế 4
+Điểm trúng tuyển được tính theo thang điểm 10, tổng điểm tối đa của 3 bài thi trong tổ hợp xét tuyển là 30 điểm.
+
+Quy chế 5
+Xét tuyển các nguyện vọng bình đẳng theo kết quả thi (điểm trúng tuyển giữa các nguyện vọng là bằng nhau), nếu thí sinh không trúng tuyển nguyện vọng ở thứ tự ưu tiên thứ nhất (nguyện vọng 1) thì sẽ được tự động xét tuyển ở nguyện vọng ưu tiên thứ hai (nguyện vọng 2) và kế tiếp.
+
+Quy chế 6
+Học viện không sử dụng kết quả miễn thi bài thi môn ngoại ngữ và điểm thi được bảo lưu để xét tuyển.
+
+Quy chế 7
+Thí sinh chỉ trúng tuyển vào 1 nguyện vọng ưu tiên cao nhất trong danh sách các nguyện vọng đã đăng ký, khi đã trúng tuyển ở nguyện vọng nào thì không được xét tuyển tiếp ở nguyện vọng sau.
+
+Quy chế 8
+Đối với các thí sinh bằng điểm xét tuyển ở cuối danh sách, nếu vẫn còn vượt chỉ tiêu thì ưu tiên thí sinh có nguyện vọng cao hơn theo Quy chế tuyển sinh của Bộ Giáo dục và Đào tạo, Học viện không sử dụng tiêu chí phụ riêng để xét tuyển.
+
+Quy chế 9
+Các điều kiện khác thực hiện theo Quy chế tuyển sinh đại học hệ chính quy hiện hành của Bộ Giáo dục và Đào tạo.
+
+Quy chế 1
+Xét tuyển theo ngành và theo tổ hợp môn thi xét tuyển.
+
+Quy chế 2
+Điểm trúng tuyển của các tổ hợp môn thi trong cùng một ngành là bằng nhau.
+
+Quy chế 3
+Xét trúng tuyển từ thí sinh có kết quả cao xuống và đảm bảo chất lượng tuyển sinh.
+
+
+date: 15/05/2025
+headings: []
