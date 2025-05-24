@@ -85,114 +85,70 @@ PI6.1: Thiết kế giải pháp bảo mật hệ thống theo một tập các 
 PI6.2: Triển khai giải pháp bảo mật đã thiết kế. (Implement the designed security solution)
 
 PI6.3: Đánh giá pháp bảo mật đã triển khai. (Evaluate the implemented security solution)
+
 Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )
-Học kỳ 1
-8 tín chỉ
-Tiếng Anh ( Course 1 CLC)
-3 tín chỉ
-Đại số
-3 tín chỉ
-Giải tích 1
-3 tín chỉ
-Nhập môn tin học và ATTT
-Học kỳ 2
-8 tín chỉ
-Tiếng Anh (Course 2 CLC)
-4 tín chỉ
-Vật lý ứng dụng
-3 tín chỉ
-Giải tích 2
-3 tín chỉ
-Mạng máy tính
-Học kỳ 3
-8 tín chỉ
-Tiếng Anh (Course 3 CLC)
-3 tín chỉ
-Xác suất thống kê
-3 tín chỉ
-Cấu trúc dữ liệu và giải thuật
-3 tín chỉ
-Cơ sở an toàn thông tin
-3 tín chỉ
-Kiến trúc máy tính và hệ điều hành
-Học kỳ 4
-3 tín chỉ
-Triết học Mác-Lênin
-2 tín chỉ
-Phương pháp luận NCKH
-3 tín chỉ
-Lập trình hướng đối tượng
-3 tín chỉ
-Toán rời rạc 1
-3 tín chỉ
-Hệ điều hành Windows và Linux/Unix
-3 tín chỉ
-Python cho An toàn thông tin
-Học kỳ 5
-2 tín chỉ
-Kinh tế chính trị Mác-Lênin
-3 tín chỉ
-Điện tử số
-3 tín chỉ
-Lập trình Web
-3 tín chỉ
-Cơ sở dữ liệu
-3 tín chỉ
-Mật mã học cơ sở
-3 tín chỉ
-Hợp ngữ và dịch ngược
-Học kỳ 6
-2 tín chỉ
-Chủ nghĩa xã hội khoa học
-3 tín chỉ
-Nhập môn trí tuệ nhân tạo
-3 tín chỉ
-Nhập môn công nghệ phần mềm
-3 tín chỉ
-An toàn ứng dụng web và cơ sở dữ liệu
-4 tín chỉ
-Thực tập cơ sở
-3 tín chỉ
-An toàn mạng
-Học kỳ 7
-2 tín chỉ
-Tư tưởng Hồ Chí Minh
-3 tín chỉ
-Học phần tự chọn 1.1
-2 tín chỉ
-Học phần tự chọn 2.1
-3 tín chỉ
-Quản lý và đánh giá an toàn thông tin
-3 tín chỉ
-An toàn mạng nâng cao
-3 tín chỉ
-Phân tích mã độc
-Học kỳ 8
-2 tín chỉ
-Lịch sử Đảng Cộng sản VN
-3 tín chỉ
-Học phần tự chọn 1.2
-2 tín chỉ
-Học phần tự chọn 2.2
-3 tín chỉ
-Kiểm thử xâm nhập
-3 tín chỉ
-Giám sát an toàn mạng
-2 tín chỉ
-Pháp luật đại cương
-Học kỳ 9
-8 tín chỉ
-Thực tập tốt nghiệp
-8 tín chỉ
-Đồ án tốt nghiệp
- Bắt buộc chung
- Bổ trợ ngành
- Chuyên ngành
- Giáo dục chuyên nghiệp
- Bắt buộc chung nhóm ngành
- Cơ sở ngành
- Thực tập
- Luận văn tốt nghiệp
+
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ   | Học phần                                                   | Số tín chỉ   | Yêu cầu                     |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 1 | Tiếng Anh (Course 1 CLC)                                   | 3            | Bắt buộc chung              |
+| Học kỳ 1 | Đại số                                                     | 3            | Bắt buộc chung nhóm ngành   |
+| Học kỳ 1 | Giải tích 1                                                | 3            | Bắt buộc chung nhóm ngành   |
+| Học kỳ 1 | Nhập môn tin học và ATTT                                   | 3            | Bắt buộc chung              |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 2 | Tiếng Anh (Course 2 CLC)                                   | 4            | Bắt buộc chung              |
+| Học kỳ 2 | Vật lý ứng dụng                                            | 3            | Bắt buộc chung nhóm ngành   |
+| Học kỳ 2 | Giải tích 2                                                | 3            | Bắt buộc chung              |
+| Học kỳ 2 | Mạng máy tính                                              |              | Cơ sở ngành                 |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 3 | Tiếng Anh (Course 3 CLC)                                   | 3            | Bắt buộc chung              |
+| Học kỳ 3 | Xác suất thống kê                                          | 3            | Bắt buộc chung nhóm ngành   |
+| Học kỳ 3 | Cấu trúc dữ liệu và giải thuật                             | 3            | Cơ sở ngành                 |
+| Học kỳ 3 | Cơ sở an toàn thông tin                                    | 3            | Cơ sở ngành                 |
+| Học kỳ 3 | Kiến trúc máy tính và hệ điều hành                         |              | Cơ sở ngành                 |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 4 | Triết học Mác-Lênin                                        | 3            | Bắt buộc chung              |
+| Học kỳ 4 | Phương pháp luận NCKH                                      | 2            | Bắt buộc chung nhóm ngành   |
+| Học kỳ 4 | Lập trình hướng đối tượng                                  | 3            | Cơ sở ngành                 |
+| Học kỳ 4 | Toán rời rạc 1                                             | 3            | Cơ sở ngành                 |
+| Học kỳ 4 | Hệ điều hành Windows và Linux/Unix                         | 3            | Cơ sở ngành                 |
+| Học kỳ 4 | Python cho An toàn thông tin                               |              | Cơ sở ngành                 |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 5 | Kinh tế chính trị Mác-Lênin                                | 2            | Bắt buộc chung              |
+| Học kỳ 5 | Điện tử số                                                 | 3            | Cơ sở ngành                 |
+| Học kỳ 5 | Lập trình Web                                              | 3            | Cơ sở ngành                 |
+| Học kỳ 5 | Cơ sở dữ liệu                                              | 3            | Cơ sở ngành                 |
+| Học kỳ 5 | Mật mã học cơ sở                                           | 3            | Cơ sở ngành                 |
+| Học kỳ 5 | Hợp ngữ và dịch ngược                                      |              | Cơ sở ngành                 |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 6 | Chủ nghĩa xã hội khoa học                                  | 2            | Bắt buộc chung              |
+| Học kỳ 6 | Nhập môn trí tuệ nhân tạo                                  | 3            | Bắt buộc chung nhóm ngành   |
+| Học kỳ 6 | Nhập môn công nghệ phần mềm                                | 3            | Cơ sở ngành                 |
+| Học kỳ 6 | An toàn ứng dụng web và cơ sở dữ liệu                      | 3            | Chuyên ngành                |
+| Học kỳ 6 | Thực tập cơ sở                                             | 4            | Cơ sở ngành                 |
+| Học kỳ 6 | An toàn mạng                                               | 3            | Chuyên ngành                |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 7 | Tư tưởng Hồ Chí Minh                                       | 2            | Bắt buộc chung              |
+| Học kỳ 7 | Học phần tự chọn 1.1                                       | 3            | Chuyên ngành                |
+| Học kỳ 7 | Học phần tự chọn 2.1                                       | 2            | Chuyên ngành                |
+| Học kỳ 7 | Quản lý và đánh giá an toàn thông tin                      | 3            | Chuyên ngành                |
+| Học kỳ 7 | An toàn mạng nâng cao                                      | 3            | Chuyên ngành                |
+| Học kỳ 7 | Phân tích mã độc                                           | 3            | Chuyên ngành                |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 8 | Lịch sử Đảng Cộng sản VN                                   | 2            | Bắt buộc chung              |
+| Học kỳ 8 | Học phần tự chọn 1.2                                       | 3            | Chuyên ngành                |
+| Học kỳ 8 | Học phần tự chọn 2.2                                       | 2            | Cơ sở ngành                 |
+| Học kỳ 8 | Kiểm thử xâm nhập                                          | 3            | Chuyên ngành                |
+| Học kỳ 8 | Giám sát an toàn mạng                                      | 3            | Chuyên ngành                |
+| Học kỳ 8 | Pháp luật đại cương                                        | 2            | Bắt buộc chung nhóm ngành   |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+| Học kỳ 9 | Thực tập tốt nghiệp                                        | 8            | Chuyên ngành                |
+| Học kỳ 9 | Đồ án tốt nghiệp                                           | 8            | Chuyên ngành                |
++----------+------------------------------------------------------------+--------------+-----------------------------+
+
+
+
+
 Nghề nghiệp
 Sau khi tốt nghiệp sinh viên có thể đảm nhận tốt các vị trí và/hoặc công việc sau (Graduates of the program can take up the following positions/tasks):
 
@@ -228,3 +184,4 @@ Quy trình nhập học
 
 date: None
 headings: ['Ngành Trí tuệ nhân tạo', 'Tổng quan', 'Chuẩn đầu ra', 'Cấu trúc chương trình các chuyên ngành (Tiến trình học tập theo học chế tín chỉ )', 'Các học phần tự chọn', 'Các học phần tự chọn', 'Các học phần tự chọn', 'Các học phần tự chọn', 'Nghề nghiệp', 'Học phí', 'Điều kiện tuyển sinh', 'Quy trình nhập học', 'Tài liệu đào tạo']
+Đang hiển thị 7995217239865495778.
